@@ -7,11 +7,12 @@
 using Foundation;
 using System;
 using System.CodeDom.Compiler;
+using UIKit;
 
 namespace Open_Data_Hackathon__2017
 {
-    [Register ("SecondViewController")]
-    partial class SecondViewController
+    [Register ("UINavBar")]
+    partial class UINavBar
     {
         void ReleaseDesignerOutlets ()
         {

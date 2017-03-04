@@ -93,9 +93,29 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="MapViews.cs" />
+    <Compile Include="MapViews.designer.cs">
+      <DependentUpon>MapViews.cs</DependentUpon>
+    </Compile>
     <Compile Include="SQLite.cs" />
     <Compile Include="SQLiteAsync.cs" />
     <Compile Include="Store.cs" />
+    <Compile Include="UINavBar.cs" />
+    <Compile Include="UINavBar.designer.cs">
+      <DependentUpon>UINavBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UITextFields.cs" />
+    <Compile Include="UITextFields.designer.cs">
+      <DependentUpon>UITextFields.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIViewControllers.cs" />
+    <Compile Include="UIViewControllers.designer.cs">
+      <DependentUpon>UIViewControllers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIViews.cs" />
+    <Compile Include="UIViews.designer.cs">
+      <DependentUpon>UIViews.cs</DependentUpon>
+    </Compile>
     <None Include="GettingStarted.Xamarin" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />

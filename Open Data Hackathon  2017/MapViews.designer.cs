@@ -5,13 +5,14 @@
 // Manual changes to this file will not be maintained.
 //
 using Foundation;
+using MapKit;
 using System;
 using System.CodeDom.Compiler;
 
 namespace Open_Data_Hackathon__2017
 {
-    [Register ("SecondViewController")]
-    partial class SecondViewController
+    [Register ("MapViews")]
+    partial class MapViews
     {
         void ReleaseDesignerOutlets ()
         {
