@@ -11,9 +11,13 @@ using UIKit;
 
 namespace Open_Data_Hackathon__2017
 {
-    [Register ("UIViewControllers")]
-    partial class UIViewControllers
+    [Register ("SearchViewController")]
+    partial class SearchViewController
     {
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton b_SearchButton { get; set; }
+
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
         Open_Data_Hackathon__2017.MapViews m_SearchMap { get; set; }
@@ -28,10 +32,19 @@ namespace Open_Data_Hackathon__2017
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        Open_Data_Hackathon__2017.UINavigationItems t_SearchNavBarText { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         Open_Data_Hackathon__2017.UIViews v_SearchScreen { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
+            if (b_SearchButton != null) {
+                b_SearchButton.Dispose ();
+                b_SearchButton = null;
+            }
+
             if (m_SearchMap != null) {
                 m_SearchMap.Dispose ();
                 m_SearchMap = null;
@@ -45,6 +58,11 @@ namespace Open_Data_Hackathon__2017
             if (t_SearchNavBar != null) {
                 t_SearchNavBar.Dispose ();
                 t_SearchNavBar = null;
+            }
+
+            if (t_SearchNavBarText != null) {
+                t_SearchNavBarText.Dispose ();
+                t_SearchNavBarText = null;
             }
 
             if (v_SearchScreen != null) {

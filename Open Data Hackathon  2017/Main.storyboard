@@ -44,7 +44,7 @@
         </scene>
         <scene sceneID="34">
             <objects>
-                <viewController id="35" sceneMemberID="viewController" customClass="UIViewControllers">
+                <viewController id="35" sceneMemberID="viewController" customClass="SearchViewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="32"/>
                         <viewControllerLayoutGuide type="bottom" id="33"/>
@@ -58,7 +58,7 @@
                                 <rect key="frame" x="0.0" y="21" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <items>
-                                    <navigationItem id="168" title="Buy Local"/>
+                                    <navigationItem id="168" title="Buy Local" customClass="UINavigationItems"/>
                                 </items>
                             </navigationBar>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Search" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="169" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
@@ -68,16 +68,25 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Text" borderStyle="roundedRect" minimumFontSize="17" id="170" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="UITextFields" placeholder="City...">
-                                <rect key="frame" x="20" y="135" width="280" height="30"/>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Enter City..." borderStyle="roundedRect" minimumFontSize="17" id="170" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="UITextFields" clearButtonMode="whileEditing">
+                                <rect key="frame" x="20" y="135" width="181" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
+                                <textInputTraits key="textInputTraits" returnKeyType="search"/>
                             </textField>
                             <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" id="171" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="MapViews">
                                 <rect key="frame" x="20" y="209" width="280" height="172"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </mapView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="172" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="UIButton">
+                                <rect key="frame" x="209" y="135" width="91" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" colorSpace="calibratedRGB" red="0.70196078431372544" green="0.76078431372549016" blue="0.8666666666666667" alpha="1"/>
+                                <state key="normal" title="Search">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections/>
+                            </button>
                         </subviews>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="164"/>
@@ -87,6 +96,8 @@
                         <outlet property="t_SearchNavBar" destination="167" id="name-outlet-167"/>
                         <outlet property="t_SearchCity" destination="170" id="name-outlet-170"/>
                         <outlet property="m_SearchMap" destination="171" id="name-outlet-171"/>
+                        <outlet property="b_SearchButton" destination="172" id="name-outlet-172"/>
+                        <outlet property="t_SearchNavBarText" destination="168" id="name-outlet-168"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="37" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -96,5 +107,6 @@
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedScreenMetrics key="destination" type="retina4"/>
+        <simulatedOrientationMetrics key="orientation"/>
     </simulatedMetricsContainer>
 </document>

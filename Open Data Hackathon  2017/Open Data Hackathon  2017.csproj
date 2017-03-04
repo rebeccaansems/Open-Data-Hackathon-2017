@@ -97,6 +97,10 @@
     <Compile Include="MapViews.designer.cs">
       <DependentUpon>MapViews.cs</DependentUpon>
     </Compile>
+    <Compile Include="SearchViewController.cs" />
+    <Compile Include="SearchViewController.designer.cs">
+      <DependentUpon>SearchViewController.cs</DependentUpon>
+    </Compile>
     <Compile Include="SQLite.cs" />
     <Compile Include="SQLiteAsync.cs" />
     <Compile Include="Store.cs" />
@@ -104,13 +108,13 @@
     <Compile Include="UINavBar.designer.cs">
       <DependentUpon>UINavBar.cs</DependentUpon>
     </Compile>
+    <Compile Include="UINavigationItems.cs" />
+    <Compile Include="UINavigationItems.designer.cs">
+      <DependentUpon>UINavigationItems.cs</DependentUpon>
+    </Compile>
     <Compile Include="UITextFields.cs" />
     <Compile Include="UITextFields.designer.cs">
       <DependentUpon>UITextFields.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UIViewControllers.cs" />
-    <Compile Include="UIViewControllers.designer.cs">
-      <DependentUpon>UIViewControllers.cs</DependentUpon>
     </Compile>
     <Compile Include="UIViews.cs" />
     <Compile Include="UIViews.designer.cs">
@@ -126,10 +130,6 @@
     <Compile Include="FirstViewController.cs" />
     <Compile Include="FirstViewController.designer.cs">
       <DependentUpon>FirstViewController.cs</DependentUpon>
-    </Compile>
-    <Compile Include="SecondViewController.cs" />
-    <Compile Include="SecondViewController.designer.cs">
-      <DependentUpon>SecondViewController.cs</DependentUpon>
     </Compile>
     <InterfaceDefinition Include="Main.storyboard" />
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Contents.json">
