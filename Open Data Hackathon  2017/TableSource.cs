@@ -33,14 +33,41 @@ namespace Open_Data_Hackathon__2017
         /// </summary>
         public override void RowSelected(UITableView tableView, NSIndexPath indexPath)
         {
-            string message = "Phone: " + storeItems[indexPath.Row].Phone + "\n" +
-                "Address: " + storeItems[indexPath.Row].Address + "\n" +
-                "Hours: " + storeItems[indexPath.Row].Hours + "\n\n" +
-                "Website: " + storeItems[indexPath.Row].Website + "\n";
+            string message = "";
+
+            if(storeItems[indexPath.Row].Phone != "")
+            {
+                message += "Phone: " + storeItems[indexPath.Row].Phone + "\n";
+            }
+            if (storeItems[indexPath.Row].Address != "")
+            {
+                message += "Address: " + storeItems[indexPath.Row].Address + "\n";
+            }
+            if (storeItems[indexPath.Row].Hours != "")
+            {
+                message += "Hours: " + storeItems[indexPath.Row].Hours + "\n";
+            }
+            if (storeItems[indexPath.Row].Website != "")
+            {
+                message += "Website: " + storeItems[indexPath.Row].Website;
+            }
+
             UIAlertController okAlertController = UIAlertController.Create(storeItems[indexPath.Row].Producer,message, UIAlertControllerStyle.Alert);
+
+            if (storeItems[indexPath.Row].Phone != "")
+            {
+                okAlertController.AddAction(UIAlertAction.Create("Call", UIAlertActionStyle.Default, CallStore));
+            }
+            if (storeItems[indexPath.Row].Address != "")
+            {
+                okAlertController.AddAction(UIAlertAction.Create("Directions", UIAlertActionStyle.Default, DirectionsToStore));
+            }
+            if (storeItems[indexPath.Row].Website != "")
+            {
+                okAlertController.AddAction(UIAlertAction.Create("Website", UIAlertActionStyle.Default, GotoWebsite));
+            }
+
             okAlertController.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Cancel, null));
-            okAlertController.AddAction(UIAlertAction.Create("Call", UIAlertActionStyle.Default, CallStore));
-            okAlertController.AddAction(UIAlertAction.Create("Directions", UIAlertActionStyle.Default, DirectionsToStore));
             owner.PresentViewController(okAlertController, true, null);
 
             tableView.DeselectRow(indexPath, true);
@@ -69,6 +96,11 @@ namespace Open_Data_Hackathon__2017
         }
 
         void DirectionsToStore(UIAlertAction obj)
+        {
+
+        }
+
+        void GotoWebsite(UIAlertAction obj)
         {
 
         }

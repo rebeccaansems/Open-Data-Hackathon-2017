@@ -40,7 +40,7 @@ namespace Open_Data_Hackathon__2017
 
         void SearchButtonPressed(object sender, EventArgs e)
         {
-            FindNearestStores(m_SearchMap.UserLocation.Coordinate.Longitude, m_SearchMap.UserLocation.Coordinate.Latitude);
+            FindNearestStores(m_SearchMap.UserLocation.Coordinate.Latitude, m_SearchMap.UserLocation.Coordinate.Longitude);
 
             List<string> tableList = new List<string>();
             for (int i = 0; i < AppDelegate.nearestStores.Count; i++)
@@ -50,14 +50,15 @@ namespace Open_Data_Hackathon__2017
             string[] tableItems = tableList.ToArray();
             table.Source = new TableSource(tableItems, AppDelegate.nearestStores.ToArray(), this);
             Add(table);
+            table.ReloadData();
         }
 
-        void FindNearestStores(double lon, double lat)
+        void FindNearestStores(double lat, double lon)
         {
             AppDelegate.nearestStores.Clear();
             for(int i=0; i< AppDelegate.allStores.Count; i++)
             {
-                if (TestRange(AppDelegate.allStores[i].Lon, lon - 0.25, lon + 0.25) && TestRange(AppDelegate.allStores[i].Lat, lat - 0.25, lat + 0.25))
+                if (TestRange(AppDelegate.allStores[i].Lon, lon - 1, lon + 1) && TestRange(AppDelegate.allStores[i].Lat, lat - 1, lat + 1))
                 {
                     AppDelegate.nearestStores.Add(AppDelegate.allStores[i]);
                 }

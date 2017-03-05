@@ -142,7 +142,7 @@
                             </mask>
                         </variation>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="164"/>
+                    <tabBarItem key="tabBarItem" id="164" systemItem="search"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="v_SearchScreen" destination="36" id="name-outlet-36"/>
