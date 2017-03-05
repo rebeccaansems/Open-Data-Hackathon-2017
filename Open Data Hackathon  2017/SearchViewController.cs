@@ -34,13 +34,36 @@ namespace Open_Data_Hackathon__2017
 
             m_SearchMap.ShowsUserLocation = true;
             m_SearchMap.DidUpdateUserLocation += UpdateMap;
-
-            AddPins();
         }
 
-        void SearchButtonPressed(object sender, EventArgs e)
+        async void SearchButtonPressed(object sender, EventArgs e)
         {
-            FindNearestStores(m_SearchMap.UserLocation.Coordinate.Latitude, m_SearchMap.UserLocation.Coordinate.Longitude);
+            m_SearchMap.RemoveAnnotations();
+
+            if (t_SearchCity.Text == "Current Location")
+            {
+                await AddPins();
+                FindNearestStores(m_SearchMap.UserLocation.Coordinate.Latitude, m_SearchMap.UserLocation.Coordinate.Longitude);
+
+                List<string> tableList = new List<string>();
+                for (int i = 0; i < AppDelegate.nearestStores.Count; i++)
+                {
+                    tableList.Add(AppDelegate.nearestStores[i].Producer);
+                }
+                string[] tableItems = tableList.ToArray();
+                table.Source = new TableSource(tableItems, AppDelegate.nearestStores.ToArray(), this);
+                Add(table);
+                table.ReloadData();
+            }
+            else
+            {
+                GeocodeToUpdateMap(t_SearchCity.Text);
+            }
+        }
+
+        void UpdateSearchLocation(CLLocationCoordinate2D coords)
+        {
+            FindNearestStores(coords.Latitude, coords.Longitude);
 
             List<string> tableList = new List<string>();
             for (int i = 0; i < AppDelegate.nearestStores.Count; i++)
@@ -56,9 +79,9 @@ namespace Open_Data_Hackathon__2017
         void FindNearestStores(double lat, double lon)
         {
             AppDelegate.nearestStores.Clear();
-            for(int i=0; i< AppDelegate.allStores.Count; i++)
+            for (int i = 0; i < AppDelegate.allStores.Count; i++)
             {
-                if (TestRange(AppDelegate.allStores[i].Lon, lon - 1, lon + 1) && TestRange(AppDelegate.allStores[i].Lat, lat - 1, lat + 1))
+                if (TestRange(AppDelegate.allStores[i].Lon, lon - 0.05, lon + 0.05) && TestRange(AppDelegate.allStores[i].Lat, lat - 0.05, lat + 0.05))
                 {
                     AppDelegate.nearestStores.Add(AppDelegate.allStores[i]);
                 }
@@ -87,16 +110,36 @@ namespace Open_Data_Hackathon__2017
             m_SearchMap.Region = new MKCoordinateRegion(coords, span);
         }
 
-        async void AddPins()
+        async void GeocodeToUpdateMap(string address)
+        {
+            b_SearchButton.Enabled = false;
+            var geoCoder = new CLGeocoder();
+
+            try
+            {
+                CLPlacemark[] placemarks = await geoCoder.GeocodeAddressAsync(address);
+                UpdateMap(placemarks[0].Location.Coordinate);
+
+                await AddPins();
+                UpdateSearchLocation(new CLLocationCoordinate2D(placemarks[0].Location.Coordinate.Latitude, placemarks[0].Location.Coordinate.Longitude));
+            }
+            catch
+            {
+                UIAlertController okAlertController = UIAlertController.Create("ERROR", "Invalid address, try again", UIAlertControllerStyle.Alert);
+            }
+            b_SearchButton.Enabled = true;
+        }
+
+        async Task AddPins()
         {
             b_SearchButton.Enabled = false;
             for (int i = 0; i < AppDelegate.allStores.Count; i++)
             {
+                t_SearchNavBarText.Title = i+"";
                 Store store = AppDelegate.allStores[i];
                 try
                 {
                     CLPlacemark[] placemarks = await geoCoder.GeocodeAddressAsync(store.Address + " " + store.City);
-                    t_SearchNavBarText.Title = store.Producer;
 
                     store.Lon = placemarks[0].Location.Coordinate.Longitude;
                     store.Lat = placemarks[0].Location.Coordinate.Latitude;
@@ -145,6 +188,8 @@ namespace Open_Data_Hackathon__2017
         {
             return (numberToCheck >= bottom && numberToCheck <= top);
         }
+
+
 
     }
 }
