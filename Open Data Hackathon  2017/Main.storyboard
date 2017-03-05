@@ -75,7 +75,7 @@
                                 <textInputTraits key="textInputTraits" returnKeyType="search"/>
                             </textField>
                             <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" id="171" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="MapViews">
-                                <rect key="frame" x="20" y="209" width="280" height="172"/>
+                                <rect key="frame" x="20" y="187" width="280" height="194"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </mapView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="172" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="UIButton">
@@ -87,7 +87,26 @@
                                 </state>
                                 <connections/>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="177" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="UIButton">
+                                <rect key="frame" x="20" y="401" width="280" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" colorSpace="calibratedRGB" red="0.70196078431372544" green="0.76078431372549016" blue="0.8666666666666667" alpha="1"/>
+                                <state key="normal" title="Search Current Location">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections/>
+                            </button>
                         </subviews>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="177"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="subviews">
+                                <include reference="177"/>
+                            </mask>
+                        </variation>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="164"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
@@ -98,6 +117,7 @@
                         <outlet property="m_SearchMap" destination="171" id="name-outlet-171"/>
                         <outlet property="b_SearchButton" destination="172" id="name-outlet-172"/>
                         <outlet property="t_SearchNavBarText" destination="168" id="name-outlet-168"/>
+                        <outlet property="b_SearchCurrentLocation" destination="177" id="name-outlet-177"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="37" userLabel="First Responder" sceneMemberID="firstResponder"/>

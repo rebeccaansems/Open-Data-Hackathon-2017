@@ -1,7 +1,7 @@
 ﻿[{
 	"Producer": "A & T Savory Producers",
-	"Contact Name": "Anne Lewis, Owner",
-	"Street Address": "Parker Mountain Road",
+	"ContactName": "Anne Lewis, Owner",
+	"Address": "Parker Mountain Road",
 	"City": "Annapolis Royal",
 	"Province": "",
 	"Postal Code": "B0S 1K0",
@@ -13,8 +13,8 @@
 	"Brands": "A & T Savory (bulk), Parkerdale Herb Farm (package)"
 }, {
 	"Producer": "Abundant Acres",
-	"Contact Name": "Jen Greenberg",
-	"Street Address": "182 Red Bank Rd.",
+	"ContactName": "Jen Greenberg",
+	"Address": "182 Red Bank Rd.",
 	"City": "Centre Burlington",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 1E0",
@@ -26,8 +26,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Acadian Maple Products Limited.",
-	"Contact Name": "Brian Allaway",
-	"Street Address": "13578 Peggy's Cove Road",
+	"ContactName": "Brian Allaway",
+	"Address": "13578 Peggy's Cove Road",
 	"City": "Upper Tantallon",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3Z 2J2",
@@ -39,8 +39,8 @@
 	"Brands": "Acadian Maple Products Limited"
 }, {
 	"Producer": "Acadian Seaplants",
-	"Contact Name": "",
-	"Street Address": "30 Brown Ave",
+	"ContactName": "",
+	"Address": "30 Brown Ave",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3B 1X8",
@@ -52,8 +52,8 @@
 	"Brands": "Hana-Tsunomata"
 }, {
 	"Producer": "Acadiana Soy Products",
-	"Contact Name": "Anna Anderson",
-	"Street Address": "11460 Hwy 1PO Box 34",
+	"ContactName": "Anna Anderson",
+	"Address": "11460 Hwy 1PO Box 34",
 	"City": "Grand Pre",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1M0",
@@ -65,8 +65,8 @@
 	"Brands": "Acadiana Soy Products"
 }, {
 	"Producer": "Agri-Growers Ltd.",
-	"Contact Name": "Jim Daigle, Norma Langdale, Mike Redden",
-	"Street Address": "42 Hwy 358",
+	"ContactName": "Jim Daigle, Norma Langdale, Mike Redden",
+	"Address": "42 Hwy 358",
 	"City": "Port Williams",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1T0",
@@ -78,8 +78,8 @@
 	"Brands": "Agri-Growers Ltd., Sawler Gardens"
 }, {
 	"Producer": "Alderney Landing Farmers' Market",
-	"Contact Name": "Lisa Josey",
-	"Street Address": "Alderney Landing, 2 Ochterloney Street",
+	"ContactName": "Lisa Josey",
+	"Address": "Alderney Landing, 2 Ochterloney ",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2Y 4W1",
@@ -91,8 +91,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Alma Mater",
-	"Contact Name": "Giuseppe + Silke Platania",
-	"Street Address": "247, Porter Corning Rd",
+	"ContactName": "Giuseppe + Silke Platania",
+	"Address": "247, Porter Corning Rd",
 	"City": "Richmond, NS",
 	"Province": "Nova Scotia",
 	"Postal Code": "B5A5S4",
@@ -104,8 +104,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ames Apiaries & Honey",
-	"Contact Name": "Vincent",
-	"Street Address": "384 McGrath Ave",
+	"ContactName": "Vincent",
+	"Address": "384 McGrath Ave",
 	"City": "Upper Rawdon",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2N0",
@@ -117,8 +117,8 @@
 	"Brands": "Ames Honey"
 }, {
 	"Producer": "Amherst Farmers' Market",
-	"Contact Name": "Kristie Speck ",
-	"Street Address": "9 Electric Street",
+	"ContactName": "Kristie Speck ",
+	"Address": "9 Electric ",
 	"City": "Amherst",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4H 1W9",
@@ -130,8 +130,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Amos Pewter",
-	"Contact Name": "",
-	"Street Address": "589 Main Street",
+	"ContactName": "",
+	"Address": "589 Main ",
 	"City": "Mahone Bay",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2E0",
@@ -143,8 +143,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Amos Pewter Halifax ",
-	"Contact Name": "",
-	"Street Address": "1751 Lower Water Street",
+	"ContactName": "",
+	"Address": "1751 Lower Water ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 1S5",
@@ -156,8 +156,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Amos Pewter Peggy's Cove ",
-	"Contact Name": "",
-	"Street Address": "162 Peggy's Point Road",
+	"ContactName": "",
+	"Address": "162 Peggy's Point Road",
 	"City": "Peggy's Cove",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3Z 2S2",
@@ -169,8 +169,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Angel's Essentials",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -182,8 +182,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Angelhoeve Organic Farm",
-	"Contact Name": "Angela Patterson",
-	"Street Address": "1467 Gospel Woods Rd",
+	"ContactName": "Angela Patterson",
+	"Address": "1467 Gospel Woods Rd",
 	"City": "Canning",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1H0",
@@ -195,8 +195,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Annapolis Highland Vineyards",
-	"Contact Name": "",
-	"Street Address": "2635 Clementsvale Rd.",
+	"ContactName": "",
+	"Address": "2635 Clementsvale Rd.",
 	"City": "Bear River",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1B0",
@@ -208,8 +208,8 @@
 	"Brands": "Annapolis Highland Vineyards"
 }, {
 	"Producer": "Annapolis Home Hardware & Building Centre",
-	"Contact Name": "",
-	"Street Address": "132 St Anthony St",
+	"ContactName": "",
+	"Address": "132 St Anthony St",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -221,8 +221,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Annapolis Natural Food",
-	"Contact Name": "",
-	"Street Address": "253 St. George Street",
+	"ContactName": "",
+	"Address": "253 St. George ",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -234,8 +234,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Annapolis Royal Farmers & Traders Market",
-	"Contact Name": "Corinne Warner",
-	"Street Address": "178 Saint George Street",
+	"ContactName": "Corinne Warner",
+	"Address": "178 Saint George ",
 	"City": "Annapolis Royal",
 	"Province": "",
 	"Postal Code": "B0S 1A0",
@@ -247,8 +247,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Antigonish Farmers Market Association",
-	"Contact Name": "Veronica DeYoung",
-	"Street Address": "30 James Street",
+	"ContactName": "Veronica DeYoung",
+	"Address": "30 James ",
 	"City": "Antigonish",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -260,8 +260,8 @@
 	"Brands": ""
 }, {
 	"Producer": "AquaPrime Mussel Ranch Ltd",
-	"Contact Name": "",
-	"Street Address": "14108 Hwy #7",
+	"ContactName": "",
+	"Address": "14108 Hwy #7",
 	"City": "Ship Harbour",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 1Y0",
@@ -273,8 +273,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Argyle Farmers & Artisanal Market",
-	"Contact Name": "Kim D'eon",
-	"Street Address": "8168 Hwy 308",
+	"ContactName": "Kim D'eon",
+	"Address": "8168 Hwy 308",
 	"City": "Tusket",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0W 3M0",
@@ -286,8 +286,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Art with MoJo",
-	"Contact Name": "",
-	"Street Address": "304 Saint George Street",
+	"ContactName": "",
+	"Address": "304 Saint George ",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -299,8 +299,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Authentic Seacoast Distilling Ltd",
-	"Contact Name": "",
-	"Street Address": "80 Main Street",
+	"ContactName": "",
+	"Address": "80 Main ",
 	"City": "Guysborough",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1N0",
@@ -312,8 +312,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Avondale Sky Winery and D'Vine Morsels Restaurant",
-	"Contact Name": "Jessi Gillis",
-	"Street Address": "80 Avondale Cross Road",
+	"ContactName": "Jessi Gillis",
+	"Address": "80 Avondale Cross Road",
 	"City": "Newport Landing",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2A0",
@@ -325,8 +325,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Avonport Heritage Museum",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -338,8 +338,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Babbling Brook Baskets",
-	"Contact Name": "Kim Forster",
-	"Street Address": "676 Prince Street",
+	"ContactName": "Kim Forster",
+	"Address": "676 Prince Street",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 1G6",
@@ -351,8 +351,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Kentville Farmers Market",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -364,8 +364,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Baddeck and Area Community Market",
-	"Contact Name": "Alicia Lake",
-	"Street Address": "526 Chebucto St, Community Centre",
+	"ContactName": "Alicia Lake",
+	"Address": "526 Chebucto St, Community Centre",
 	"City": "Baddeck",
 	"Province": "",
 	"Postal Code": "B0E 1B0",
@@ -377,8 +377,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Barrington Florist",
-	"Contact Name": "902 423 9912",
-	"Street Address": "1505 Barrington Street",
+	"ContactName": "902 423 9912",
+	"Address": "1505 Barrington ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -390,8 +390,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Barteaux Farms",
-	"Contact Name": "Dwayne Barteaux",
-	"Street Address": "806 Moschelle, Hwy 201",
+	"ContactName": "Dwayne Barteaux",
+	"Address": "806 Moschelle, Hwy 201",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -403,8 +403,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bayview Poultry Farms Ltd.",
-	"Contact Name": "Glen Jennings",
-	"Street Address": "948 Shore Rd",
+	"ContactName": "Glen Jennings",
+	"Address": "948 Shore Rd",
 	"City": "Debert",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0M 1G0",
@@ -416,8 +416,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Beautiful Hill Farm",
-	"Contact Name": "Jim and Rhonda Kaine",
-	"Street Address": "3512 Hwy 252",
+	"ContactName": "Jim and Rhonda Kaine",
+	"Address": "3512 Hwy 252",
 	"City": "Mabou",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 1X0",
@@ -429,8 +429,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Beavercreek Winery",
-	"Contact Name": "Les & Paulette Wade",
-	"Street Address": "496 Carleton Rd",
+	"ContactName": "Les & Paulette Wade",
+	"Address": "496 Carleton Rd",
 	"City": "Lawrencetown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1M0",
@@ -442,8 +442,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bee Happy Farm",
-	"Contact Name": "Iris Kedmi",
-	"Street Address": "1904 Baddeck Forks Rd.",
+	"ContactName": "Iris Kedmi",
+	"Address": "1904 Baddeck Forks Rd.",
 	"City": "Baddeck",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E1B0",
@@ -455,8 +455,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bentley's Maple",
-	"Contact Name": "Avard/Jean Bentley",
-	"Street Address": "12 Valley Road",
+	"ContactName": "Avard/Jean Bentley",
+	"Address": "12 Valley Road",
 	"City": "Westchester Station",
 	"Province": "",
 	"Postal Code": "B0M 2A0",
@@ -468,8 +468,8 @@
 	"Brands": "Avard Bentley Maple Products"
 }, {
 	"Producer": "Berwick Farmers' Market",
-	"Contact Name": "David Keddy",
-	"Street Address": "236 Commercial StTown Hall Parking Lot",
+	"ContactName": "David Keddy",
+	"Address": "236 Commercial St",
 	"City": "Berwick",
 	"Province": "",
 	"Postal Code": "B0P 1E0",
@@ -481,8 +481,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Billy Stick Food Limited",
-	"Contact Name": "Bill Toulany, Owner",
-	"Street Address": "3221 Hwy 7",
+	"ContactName": "Bill Toulany, Owner",
+	"Address": "3221 Hwy 7",
 	"City": "Lake Echo",
 	"Province": "",
 	"Postal Code": "B3E 1B2",
@@ -494,8 +494,8 @@
 	"Brands": "Billy Stick Food"
 }, {
 	"Producer": "Bishop's Cellar",
-	"Contact Name": "",
-	"Street Address": "1477 Lower Water St",
+	"ContactName": "",
+	"Address": "1477 Lower Water St",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 3Z4",
@@ -507,8 +507,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Black River Maple Products",
-	"Contact Name": "Neal Livingston",
-	"Street Address": "249 MacLellans Rd.  Riverville",
+	"ContactName": "Neal Livingston",
+	"Address": "249 MacLellans Rd.",
 	"City": "Mabou",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 1X0",
@@ -520,8 +520,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Blomidon Estate Winery",
-	"Contact Name": "Wes Lowry",
-	"Street Address": "10318 Hwy 221",
+	"ContactName": "Wes Lowry",
+	"Address": "10318 Hwy 221",
 	"City": "Canning",
 	"Province": "",
 	"Postal Code": "B0P 1H0",
@@ -533,8 +533,8 @@
 	"Brands": "Blomidon Ridge"
 }, {
 	"Producer": "Blomidon Farms",
-	"Contact Name": "",
-	"Street Address": "2830 Hwy 221, Dempsey Corner",
+	"ContactName": "",
+	"Address": "2830 Hwy 221, Dempsey Corner",
 	"City": "King's County",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1C0",
@@ -546,8 +546,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Blomidon Produce Ltd.",
-	"Contact Name": "Laurie Hennigar, Roy Beckett",
-	"Street Address": "1770 Middle Dyke Road",
+	"ContactName": "Laurie Hennigar, Roy Beckett",
+	"Address": "1770 Middle Dyke Road",
 	"City": "Centerville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1J0",
@@ -559,8 +559,8 @@
 	"Brands": "Blomidon"
 }, {
 	"Producer": "Blue Apples",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -572,8 +572,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Blue Barn Farms",
-	"Contact Name": "",
-	"Street Address": "1800 Hammonds Plains Rd.",
+	"ContactName": "",
+	"Address": "1800 Hammonds Plains Rd.",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B4B 1P5",
@@ -585,8 +585,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Blue Harbour Cheese",
-	"Contact Name": "Lyndell Findlay",
-	"Street Address": "3555 Robie Street",
+	"ContactName": "Lyndell Findlay",
+	"Address": "3555 Robie ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 4S7",
@@ -598,8 +598,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Blueberry Acres ",
-	"Contact Name": "Margie Brown",
-	"Street Address": "1225 Middle Dyke Road",
+	"ContactName": "Margie Brown",
+	"Address": "1225 Middle Dyke Road",
 	"City": "Centreville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1J0",
@@ -611,8 +611,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Blueberry Acres",
-	"Contact Name": "",
-	"Street Address": "1225 Middle Dyke Road",
+	"ContactName": "",
+	"Address": "1225 Middle Dyke Road",
 	"City": "Centreville",
 	"Province": "",
 	"Postal Code": "B0P 1J0",
@@ -624,8 +624,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Boates Farm",
-	"Contact Name": "F. Keith Boates, Brian Boates",
-	"Street Address": "432 Bligh Road",
+	"ContactName": "F. Keith Boates, Brian Boates",
+	"Address": "432 Bligh Road",
 	"City": "Woodville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1G0",
@@ -637,9 +637,9 @@
 	"Brands": "Boates"
 }, {
 	"Producer": "Bob Ansem's U-Pick",
-	"Contact Name": "",
-	"Street Address": "1949 Lakewood Road",
-	"City": "Centerville",
+	"ContactName": "",
+	"Address": "1949 Lakewood Road",
+	"City": "Centreville",
 	"Province": "",
 	"Postal Code": "B0P 1J0",
 	"Phone": "(902) 679-0757",
@@ -650,8 +650,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bonny Lea Farm/Herb Garden",
-	"Contact Name": "",
-	"Street Address": "5 Collicutt Rd. Hwy 14",
+	"ContactName": "",
+	"Address": "5 Collicutt Rd. Hwy 14",
 	"City": "Chester",
 	"Province": "",
 	"Postal Code": "B0J 1J0",
@@ -663,8 +663,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bonnymans' Wild Blueberries",
-	"Contact Name": "Angus Bonnyman",
-	"Street Address": "19 Pine Street",
+	"ContactName": "Angus Bonnyman",
+	"Address": "19 Pine ",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -676,8 +676,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bosveld's Fruit Farm",
-	"Contact Name": "Hank or Dirk Bosveld",
-	"Street Address": "183 Lamont Road",
+	"ContactName": "Hank or Dirk Bosveld",
+	"Address": "183 Lamont Road",
 	"City": "Lakeville",
 	"Province": "",
 	"Postal Code": "B4N 3V7",
@@ -688,22 +688,9 @@
 	"Hours": "8am - 6pm. The U-pick is for Strawberries only.   For all U-picks please call ahead for hours and season of operation.",
 	"Brands": ""
 }, {
-	"Producer": "Boulangerie La Vendeenne",
-	"Contact Name": "Jean-Marc and Jeannine Riant",
-	"Street Address": "7651 Highway 3, RR #2",
-	"City": "Mahone Bay",
-	"Province": "Nova Scotia",
-	"Postal Code": "B0J 2E0",
-	"Phone": "1 (902) 624-0560",
-	"Fax": "",
-	"Email": "",
-	"Website": "",
-	"Hours": "Fresh organic breads and viennoserie available Thursday through Sunday: Pete's Frootique (both locations), Italian Gourmet and Italian Market, Planet Organic, Halifax Brewery Market, Wolfville Farmers Market, Lunenburg summer market, Mahone Bay Farmers Market, Annapolis Summer Market, Hubbards Farmers Market, and the New Ross Farm Market.  Our Products can also be found in specialty and quality restaurants throughout the local area and HRM.    Speciality loaves made with Nova Scotia ingredients: red fife flour, honey, maple syrup, apples, eggs. ",
-	"Brands": ""
-}, {
 	"Producer": "Bountywoods Farm",
-	"Contact Name": "Marvin Weber",
-	"Street Address": "10580 Highway 215",
+	"ContactName": "Marvin Weber",
+	"Address": "10580 Highway 215",
 	"City": "South Maitland",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2H0",
@@ -715,8 +702,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Boxing Rock Brewing Company",
-	"Contact Name": "",
-	"Street Address": "78 Ohio Road",
+	"ContactName": "",
+	"Address": "78 Ohio Road",
 	"City": "Shelburne",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0T1W0",
@@ -728,8 +715,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bramble Corner Produce",
-	"Contact Name": "Rob Smith",
-	"Street Address": "1584 Victoria Rd",
+	"ContactName": "Rob Smith",
+	"Address": "1584 Victoria Rd",
 	"City": "Aylesford",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1C0",
@@ -741,8 +728,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bramoso Gourmet Pizzeria",
-	"Contact Name": "Bethany Perry",
-	"Street Address": "6169 Quinpool Rd",
+	"ContactName": "Bethany Perry",
+	"Address": "6169 Quinpool Rd",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3L 4P8",
@@ -754,8 +741,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bras d'Or Producers",
-	"Contact Name": "John Eyking",
-	"Street Address": "312 Millville Hwy.",
+	"ContactName": "John Eyking",
+	"Address": "312 Millville Hwy.",
 	"City": "Cape Breton",
 	"Province": "",
 	"Postal Code": "B1Y 2E3",
@@ -767,8 +754,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bridgewater Farmers' Market Association",
-	"Contact Name": "Rita Landgraf",
-	"Street Address": "685 King Street",
+	"ContactName": "Rita Landgraf",
+	"Address": "685 King ",
 	"City": "Bridgewater",
 	"Province": "Nova Scotia",
 	"Postal Code": "BV4 1A3",
@@ -780,8 +767,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Brie's Glen farm",
-	"Contact Name": "Sue MacKay",
-	"Street Address": "161 och Lomond Rd",
+	"ContactName": "Sue MacKay",
+	"Address": "161 och Lomond Rd",
 	"City": "Grand River",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E1M0",
@@ -793,8 +780,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Broadfork Farm",
-	"Contact Name": "Shannon Jones and Bryan Dyck",
-	"Street Address": "3630 Boars Back Road",
+	"ContactName": "Shannon Jones and Bryan Dyck",
+	"Address": "3630 Boars Back Road",
 	"City": "River Hebert",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0L 1G0",
@@ -806,8 +793,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bruce Family Farm",
-	"Contact Name": "",
-	"Street Address": "3144 Hwy 201",
+	"ContactName": "",
+	"Address": "3144 Hwy 201",
 	"City": "Centrelea",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1C0",
@@ -819,8 +806,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Bushmann Free Range BIO Farm",
-	"Contact Name": "Peter",
-	"Street Address": "2622 Riverside Rd.",
+	"ContactName": "Peter",
+	"Address": "2622 Riverside Rd.",
 	"City": "Cleveland",
 	"Province": "",
 	"Postal Code": "B0E 1J0",
@@ -832,8 +819,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cafe Compose",
-	"Contact Name": "",
-	"Street Address": "235 St George St",
+	"ContactName": "",
+	"Address": "235 St George St",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -845,8 +832,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Canada's Ocean Playground",
-	"Contact Name": "Vish Purgass",
-	"Street Address": "",
+	"ContactName": "Vish Purgass",
+	"Address": "",
 	"City": "",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -858,8 +845,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Canning Village Meat Market",
-	"Contact Name": "",
-	"Street Address": "9820 Main Street",
+	"ContactName": "",
+	"Address": "9820 Main ",
 	"City": "Canning",
 	"Province": "",
 	"Postal Code": "B0P 1H0",
@@ -871,8 +858,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cape Breton Craft & Design Gallery",
-	"Contact Name": "",
-	"Street Address": "322 Charlotte Street",
+	"ContactName": "",
+	"Address": "322 Charlotte ",
 	"City": "Sydney",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -884,8 +871,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cape Breton Farmers' Market Cooperative",
-	"Contact Name": "Diane MacLean",
-	"Street Address": "340 Keltic Drive",
+	"ContactName": "Diane MacLean",
+	"Address": "340 Keltic Drive",
 	"City": "Sydney River",
 	"Province": "Nova Scotia",
 	"Postal Code": "B1R 1V7",
@@ -897,8 +884,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cape Breton Food Hub",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -910,8 +897,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cape North Farmers Market",
-	"Contact Name": "Claudia Gahlinger",
-	"Street Address": "United Church (Masonic) Hall, 60 Bay St. Lawrence Road",
+	"ContactName": "Claudia Gahlinger",
+	"Address": "United Church (Masonic) Hall, 60 Bay St. Lawrence Road",
 	"City": "Cape North",
 	"Province": "",
 	"Postal Code": "",
@@ -923,8 +910,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Casey Fisheries Limited",
-	"Contact Name": "Linda Walker",
-	"Street Address": "146 Water Street",
+	"ContactName": "Linda Walker",
+	"Address": "146 Water ",
 	"City": "Digby",
 	"Province": "",
 	"Postal Code": "B0V 1A0",
@@ -936,8 +923,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Casson Family Farm",
-	"Contact Name": "",
-	"Street Address": "523 Mountain Rd, RR # 2",
+	"ContactName": "",
+	"Address": "523 Mountain Rd, RR # 2",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -949,8 +936,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Celtic Country Market",
-	"Contact Name": "Brett Le Blanc",
-	"Street Address": "1415 Trans Canada Highway",
+	"ContactName": "Brett Le Blanc",
+	"Address": "1415 Trans Canada Highway",
 	"City": "Bras d'Or",
 	"Province": "Nova Scotia",
 	"Postal Code": "B1Y 2N5",
@@ -962,8 +949,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Charlene's nutrition centre",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -975,8 +962,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Chedabucto Bay Brewing Company",
-	"Contact Name": "Audrey Firth",
-	"Street Address": "80 Main Street",
+	"ContactName": "Audrey Firth",
+	"Address": "80 Main ",
 	"City": "Guysborough",
 	"Province": "",
 	"Postal Code": "B0H 1N0",
@@ -988,8 +975,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Chester Farmers and Artisan Market",
-	"Contact Name": "",
-	"Street Address": "Smith Road",
+	"ContactName": "",
+	"Address": "Smith Road",
 	"City": "Chester",
 	"Province": "",
 	"Postal Code": "",
@@ -1001,8 +988,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Chester Farmers' and Artisan",
-	"Contact Name": "",
-	"Street Address": "20 Smith Road",
+	"ContactName": "",
+	"Address": "20 Smith Road",
 	"City": "Chester",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -1014,8 +1001,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cheticamp Farmers Market",
-	"Contact Name": "Sheila McEvoy",
-	"Street Address": "Boardwalk Quai Mathieu, Cheticamp Harbour",
+	"ContactName": "Sheila McEvoy",
+	"Address": "Boardwalk Quai Mathieu, Cheticamp Harbour",
 	"City": "Cheticamp",
 	"Province": "",
 	"Postal Code": "",
@@ -1027,8 +1014,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Chez Dugue Meats Inc.",
-	"Contact Name": "Sam",
-	"Street Address": "4011 Highway #14",
+	"ContactName": "Sam",
+	"Address": "4011 Highway #14",
 	"City": "Windsor Forks",
 	"Province": "",
 	"Postal Code": "B0N 2T0",
@@ -1040,8 +1027,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Chipman Farms Ltd.",
-	"Contact Name": "",
-	"Street Address": "2497 Route 201",
+	"ContactName": "",
+	"Address": "2497 Route 201",
 	"City": "Tupperville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1C0",
@@ -1053,8 +1040,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Christensen Vegetable Farms Inc.",
-	"Contact Name": "Ron and Irene Christensen",
-	"Street Address": "284 Alma Road",
+	"ContactName": "Ron and Irene Christensen",
+	"Address": "284 Alma Road",
 	"City": "Alma",
 	"Province": "",
 	"Postal Code": "B0K 2A0",
@@ -1066,8 +1053,8 @@
 	"Brands": "Christensen\\'s"
 }, {
 	"Producer": "Christmas Tree Council of Nova Scotia",
-	"Contact Name": "",
-	"Street Address": "60 Research Drive, Perennia Innovation Park",
+	"ContactName": "",
+	"Address": "60 Research Drive, Perennia Innovation Park",
 	"City": "Bible Hill",
 	"Province": "",
 	"Postal Code": "B6L 2R2",
@@ -1079,8 +1066,8 @@
 	"Brands": ""
 }, {
 	"Producer": "City Girl Cakes",
-	"Contact Name": "Shauna Austin",
-	"Street Address": "",
+	"ContactName": "Shauna Austin",
+	"Address": "",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2Y 4P3",
@@ -1092,8 +1079,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Clearwater Seafood",
-	"Contact Name": "Tom Miller",
-	"Street Address": "757 Bedford Highway",
+	"ContactName": "Tom Miller",
+	"Address": "757 Bedford Highway",
 	"City": "Bedford",
 	"Province": "",
 	"Postal Code": "B4A 3Z7",
@@ -1105,8 +1092,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Climate Technical Gear Limited",
-	"Contact Name": "Customer Service",
-	"Street Address": "131 Thornhill Drive",
+	"ContactName": "Customer Service",
+	"Address": "131 Thornhill Drive",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3B 1S2",
@@ -1118,8 +1105,8 @@
 	"Brands": "Sevaen"
 }, {
 	"Producer": "Co-op Stores ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -1131,8 +1118,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cochrane Family Farm",
-	"Contact Name": "Frank Cochrane",
-	"Street Address": "5324 Hwy 289",
+	"ContactName": "Frank Cochrane",
+	"Address": "5324 Hwy 289",
 	"City": "Upper Stewiacke",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2P0",
@@ -1144,8 +1131,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cogmagun Poultry Processing Co. Ltd. / Mill Acre Farm",
-	"Contact Name": "Beth,Cameron and Monica",
-	"Street Address": "760 Cogmagun Rd.",
+	"ContactName": "Beth,Cameron and Monica",
+	"Address": "760 Cogmagun Rd.",
 	"City": "Centre Burlington",
 	"Province": "",
 	"Postal Code": "B0N 1E0",
@@ -1157,8 +1144,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Coldspring Farm",
-	"Contact Name": "",
-	"Street Address": "RR 4, 77 Delusion Rd.",
+	"ContactName": "",
+	"Address": "RR 4, 77 Delusion Rd.",
 	"City": "Middleton",
 	"Province": "",
 	"Postal Code": "B0S 1P0",
@@ -1170,8 +1157,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Coldstream Clear Distillery",
-	"Contact Name": "",
-	"Street Address": "2006 Coldstream Rd",
+	"ContactName": "",
+	"Address": "2006 Coldstream Rd",
 	"City": "West St Andrews",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2J0",
@@ -1183,8 +1170,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Colp Berry Farms",
-	"Contact Name": "",
-	"Street Address": "86 Arlyn Colp Rd. Hwy 208",
+	"ContactName": "",
+	"Address": "86 Arlyn Colp Rd. Hwy 208",
 	"City": "New Germany",
 	"Province": "",
 	"Postal Code": "B0R 1E0",
@@ -1196,8 +1183,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Comeau's Farm Market and Garden Centre",
-	"Contact Name": "",
-	"Street Address": "Hwy #1",
+	"ContactName": "",
+	"Address": "Hwy #1",
 	"City": "Meteghan Centre",
 	"Province": "",
 	"Postal Code": "B0W 2L0",
@@ -1209,8 +1196,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Comeau's Sea Foods Ltd.",
-	"Contact Name": "Kim d'Entremont",
-	"Street Address": "60 Saulnierville Rd Box 39",
+	"ContactName": "Kim d'Entremont",
+	"Address": "60 Saulnierville Rd Box 39",
 	"City": "Saulnierville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0W 2Z0",
@@ -1222,8 +1209,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Corkum's Forest Products",
-	"Contact Name": "Heather Pick",
-	"Street Address": "36 Soldier Rd",
+	"ContactName": "Heather Pick",
+	"Address": "36 Soldier Rd",
 	"City": "Falmouth",
 	"Province": "",
 	"Postal Code": "B0P 1L0",
@@ -1235,8 +1222,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cornect Family Farm",
-	"Contact Name": "Margaret Cornect",
-	"Street Address": "365 Cornect Rd",
+	"ContactName": "Margaret Cornect",
+	"Address": "365 Cornect Rd",
 	"City": "Denver",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2H 5C8",
@@ -1248,8 +1235,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cosman and Whidden Honey Co.",
-	"Contact Name": "Tom Cosman, Mary Ann Whidden",
-	"Street Address": "9925 Hwy 1, RR #2",
+	"ContactName": "Tom Cosman, Mary Ann Whidden",
+	"Address": "9925 Hwy 1, RR #2",
 	"City": "Wolfville",
 	"Province": "",
 	"Postal Code": "B4P 2R2",
@@ -1261,8 +1248,8 @@
 	"Brands": "Cosman and Whidden Pure Nova Scotia Honey"
 }, {
 	"Producer": "Country Delights Farm",
-	"Contact Name": "",
-	"Street Address": "2859 Malagash Road",
+	"ContactName": "",
+	"Address": "2859 Malagash Road",
 	"City": "Malagash",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1E0",
@@ -1274,8 +1261,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Cox Bros. Poultry Farm Ltd.",
-	"Contact Name": "Stacey Sherman",
-	"Street Address": "7520 Hwy 214, RR #1",
+	"ContactName": "Stacey Sherman",
+	"Address": "7520 Hwy 214, RR #1",
 	"City": "Maitland",
 	"Province": "",
 	"Postal Code": "B0N 1T0",
@@ -1287,8 +1274,8 @@
 	"Brands": "EdenValley Farms, Maritime Pride, Cox Bros."
 }, {
 	"Producer": "Cristall Wine Merchants",
-	"Contact Name": "",
-	"Street Address": "1595 Bedford Hwy",
+	"ContactName": "",
+	"Address": "1595 Bedford Hwy",
 	"City": "Bedford",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4A 3Y4",
@@ -1300,8 +1287,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Glad Gardens",
-	"Contact Name": "Daina Budde",
-	"Street Address": "5108 Highway 1",
+	"ContactName": "Daina Budde",
+	"Address": "5108 Highway 1",
 	"City": "Waterville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1V0",
@@ -1313,8 +1300,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Crumbs Gluten Free Bakery",
-	"Contact Name": "Laura Grant",
-	"Street Address": "Products available at the Halifax Farmers Market",
+	"ContactName": "Laura Grant",
+	"Address": "Products available at the Halifax Farmers Market",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 1R9",
@@ -1326,8 +1313,8 @@
 	"Brands": ""
 }, {
 	"Producer": "D&A Foodservices Limited",
-	"Contact Name": "Pat McCluskey or John Laviolette",
-	"Street Address": "552 Windmill Road",
+	"ContactName": "Pat McCluskey or John Laviolette",
+	"Address": "552 Windmill Road",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3B 1B3",
@@ -1339,8 +1326,8 @@
 	"Brands": "Dave's Famous Chicken Wing Sauce"
 }, {
 	"Producer": "D'Aubin Family Meats",
-	"Contact Name": "Ralph and Jennifer D'Aubin",
-	"Street Address": "607",
+	"ContactName": "Ralph and Jennifer D'Aubin",
+	"Address": "607",
 	"City": "Bridgetown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S1C0",
@@ -1352,8 +1339,8 @@
 	"Brands": ""
 }, {
 	"Producer": "D'aubins Family Meats",
-	"Contact Name": "",
-	"Street Address": "607 Granville Street",
+	"ContactName": "",
+	"Address": "607 Granville ",
 	"City": "Bridgetown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1C0",
@@ -1365,8 +1352,8 @@
 	"Brands": ""
 }, {
 	"Producer": "D.L. Hanna & Sons Ltd",
-	"Contact Name": "",
-	"Street Address": "5583 Hwy 2, RR#1",
+	"ContactName": "",
+	"Address": "5583 Hwy 2, RR#1",
 	"City": "Parrsboro",
 	"Province": "",
 	"Postal Code": "B0M 1S0",
@@ -1378,8 +1365,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Daniels U-Pick",
-	"Contact Name": "Phil Daniels",
-	"Street Address": "4473 Chester Road",
+	"ContactName": "Phil Daniels",
+	"Address": "4473 Chester Road",
 	"City": "Windsor",
 	"Province": "",
 	"Postal Code": "B0N 2T0",
@@ -1391,8 +1378,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Dave's Fruit and Vegetables",
-	"Contact Name": "Mark Howe",
-	"Street Address": "322 Main Street",
+	"ContactName": "Mark Howe",
+	"Address": "322 Main ",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2X 1T5",
@@ -1404,8 +1391,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Dee Dee's Ice Cream",
-	"Contact Name": "Ditta Kasdan",
-	"Street Address": "110 Peggy's Point Road",
+	"ContactName": "Ditta Kasdan",
+	"Address": "110 Peggy's Point Road",
 	"City": "Peggy's Cove",
 	"Province": "",
 	"Postal Code": "B3Z 3S2",
@@ -1417,8 +1404,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Dempsey Corner Orchards",
-	"Contact Name": "",
-	"Street Address": "2717 Hwy 221",
+	"ContactName": "",
+	"Address": "2717 Hwy 221",
 	"City": "Aylesford",
 	"Province": "",
 	"Postal Code": "B0P 1C0",
@@ -1430,8 +1417,8 @@
 	"Brands": ""
 }, {
 	"Producer": "den Haan Greenhouses",
-	"Contact Name": "Jodi den Haan",
-	"Street Address": "394 Fitch Road, RR #3",
+	"ContactName": "Jodi den Haan",
+	"Address": "394 Fitch Road, RR #3",
 	"City": "Lawrencetown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1M0",
@@ -1443,8 +1430,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Dickie's Meats",
-	"Contact Name": "John Dickie ",
-	"Street Address": "3532 Hwy 204",
+	"ContactName": "John Dickie ",
+	"Address": "3532 Hwy 204",
 	"City": "West Leicester",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4H 3Y1",
@@ -1456,8 +1443,8 @@
 	"Brands": "Sunrise, Larsens, ADL, Galco Foods, Valley House, Saputo, Tough \\'N Tasty"
 }, {
 	"Producer": "Dickinson Bros.",
-	"Contact Name": "David or Karen Dickinson",
-	"Street Address": "7799 Hwy, RR #3 Southampton",
+	"ContactName": "David or Karen Dickinson",
+	"Address": "7799 Hwy, RR #3 Southampton",
 	"City": "Southampton",
 	"Province": "",
 	"Postal Code": "B0M 1W0",
@@ -1469,8 +1456,8 @@
 	"Brands": "Dickinson Bros."
 }, {
 	"Producer": "Dobbit Bakehouse",
-	"Contact Name": "Paul Nicholl",
-	"Street Address": "7896 Highway #7",
+	"ContactName": "Paul Nicholl",
+	"Address": "7896 Highway #7",
 	"City": "Musquodoboit Harbour",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2L0",
@@ -1482,8 +1469,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Domaine de Grand Pre",
-	"Contact Name": "Cacilia Stutz",
-	"Street Address": "11611 Highway #1",
+	"ContactName": "Cacilia Stutz",
+	"Address": "11611 Highway #1",
 	"City": "Grand Pre",
 	"Province": "",
 	"Postal Code": "BOP 1M0",
@@ -1495,8 +1482,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Down East Cleaning Solutions ",
-	"Contact Name": "Danielle Beaudry ",
-	"Street Address": "44 Wright Avenue",
+	"ContactName": "Danielle Beaudry ",
+	"Address": "44 Wright Avenue",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3B 1G9",
@@ -1508,8 +1495,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Downey's Delicious",
-	"Contact Name": "Carole and Dale Downey",
-	"Street Address": "401 Spiddle Hill Road",
+	"ContactName": "Carole and Dale Downey",
+	"Address": "401 Spiddle Hill Road",
 	"City": "Tatamagouche",
 	"Province": "",
 	"Postal Code": "B0K 1V0",
@@ -1521,8 +1508,8 @@
 	"Brands": ""
 }, {
 	"Producer": "E O Randall Vegetable Farm",
-	"Contact Name": "Neva and Vernon Saunders",
-	"Street Address": "1777 Hwy 1; RR#1",
+	"ContactName": "Neva and Vernon Saunders",
+	"Address": "1777 Hwy 1; RR#1",
 	"City": "Kingston",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1R0",
@@ -1534,8 +1521,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Earltown General Store",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "Earltown",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -1547,8 +1534,8 @@
 	"Brands": ""
 }, {
 	"Producer": "East Coast Apples Ltd.",
-	"Contact Name": "Roy Beckett",
-	"Street Address": "360 Main Street, Suite 15",
+	"ContactName": "Roy Beckett",
+	"Address": "360 Main , Suite 15",
 	"City": "Wolfville",
 	"Province": "",
 	"Postal Code": "B4P 1C4",
@@ -1560,8 +1547,8 @@
 	"Brands": ""
 }, {
 	"Producer": "East Mountain Ranch",
-	"Contact Name": "Linda Finnie",
-	"Street Address": "15 young Street",
+	"ContactName": "Linda Finnie",
+	"Address": "15 young ",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 3W3",
@@ -1573,8 +1560,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Eastern Foodservice",
-	"Contact Name": "Jeff Clarke, Jim Ross, J. F. Charette",
-	"Street Address": "4 Dominion Crescent",
+	"ContactName": "Jeff Clarke, Jim Ross, J. F. Charette",
+	"Address": "4 Dominion Crescent",
 	"City": "Lakeside",
 	"Province": "",
 	"Postal Code": "B3T 1M1",
@@ -1586,8 +1573,8 @@
 	"Brands": "Eastern Brand"
 }, {
 	"Producer": "Ebbett's Meadow Brook Farm",
-	"Contact Name": "Joe or Lorenda Ebbett",
-	"Street Address": "767 Upper River John Road",
+	"ContactName": "Joe or Lorenda Ebbett",
+	"Address": "767 Upper River John Road",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -1599,8 +1586,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ebbett's Meadow Brook Farm Market",
-	"Contact Name": "Joe or Lorenda Ebbett",
-	"Street Address": "8647 Highway 311",
+	"ContactName": "Joe or Lorenda Ebbett",
+	"Address": "8647 Highway 311",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -1612,8 +1599,8 @@
 	"Brands": "Farmer Johns Herbs, Terra Beata, Cranberry Kitchen"
 }, {
 	"Producer": "Ecocentric Organic Farm",
-	"Contact Name": "Eric Frank",
-	"Street Address": "12571 Hwy 1, Box 42",
+	"ContactName": "Eric Frank",
+	"Address": "12571 Hwy 1, Box 42",
 	"City": "Avonport",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1B0",
@@ -1625,8 +1612,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rocky Knoll Farm",
-	"Contact Name": "",
-	"Street Address": "2062 Hwy 14 Centre Rawdon",
+	"ContactName": "",
+	"Address": "2062 Hwy 14 Centre Rawdon",
 	"City": "",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2N0",
@@ -1638,8 +1625,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Elderkin's Farm Market & Cider Company",
-	"Contact Name": "Peter Elderkin",
-	"Street Address": "10362 Hwy 1, RR #2 Wolfville",
+	"ContactName": "Peter Elderkin",
+	"Address": "10362 Hwy 1, RR #2 Wolfville",
 	"City": "Wolfville",
 	"Province": "",
 	"Postal Code": "B0P 1X0",
@@ -1651,8 +1638,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ellora Natural & Organic Food",
-	"Contact Name": "",
-	"Street Address": "3772  Hwy 331",
+	"ContactName": "",
+	"Address": "3772  Hwy 331",
 	"City": "LaHave",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0R 1C0",
@@ -1664,8 +1651,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Elmridge Farm Ltd",
-	"Contact Name": "",
-	"Street Address": "765 Bains Road RR2",
+	"ContactName": "",
+	"Address": "765 Bains Road RR2",
 	"City": "Centerville",
 	"Province": "",
 	"Postal Code": "B0P 1J0",
@@ -1677,8 +1664,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Enfield Farmer's Market",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -1690,8 +1677,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Evan's Family Farm Market",
-	"Contact Name": "",
-	"Street Address": "13482 Hwy 1",
+	"ContactName": "",
+	"Address": "13482 Hwy 1",
 	"City": "Wilmot",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1W0",
@@ -1703,8 +1690,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Eyking Farms",
-	"Contact Name": "John Eyking Jr.",
-	"Street Address": "300 Millville Highway",
+	"ContactName": "John Eyking Jr.",
+	"Address": "300 Millville Highway",
 	"City": "Millville",
 	"Province": "",
 	"Postal Code": "B1Y 2E2",
@@ -1716,8 +1703,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Eyking Under Glass",
-	"Contact Name": "Chris Eyking",
-	"Street Address": "289 Millville Hwy, Millville",
+	"ContactName": "Chris Eyking",
+	"Address": "289 Millville Hwy, Millville",
 	"City": "Cape Breton",
 	"Province": "",
 	"Postal Code": "B1Y 2E1",
@@ -1729,8 +1716,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Falmouth Fruit & Vegetable Company Ltd.",
-	"Contact Name": "Sarah Meades",
-	"Street Address": "2053 Hwy #1",
+	"ContactName": "Sarah Meades",
+	"Address": "2053 Hwy #1",
 	"City": "Falmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1L0",
@@ -1742,8 +1729,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Fancy Lebanese Bakery",
-	"Contact Name": "Mary Laba, President",
-	"Street Address": "2595 Agricola Street",
+	"ContactName": "Mary Laba, President",
+	"Address": "2595 Agricola ",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3K 5M8",
@@ -1755,8 +1742,8 @@
 	"Brands": "Fancy Lebanese Bakery"
 }, {
 	"Producer": "Farmer John's Herbs",
-	"Contact Name": "John Lohr, Stephen McCulley, Elaine Godin",
-	"Street Address": "44 North Medford Road",
+	"ContactName": "John Lohr, Stephen McCulley, Elaine Godin",
+	"Address": "44 North Medford Road",
 	"City": "Canning",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1H0",
@@ -1768,8 +1755,8 @@
 	"Brands": "Farmer Johns Herbs"
 }, {
 	"Producer": "Farmers Best",
-	"Contact Name": "Tim and Becky ",
-	"Street Address": "389 bedford highway",
+	"ContactName": "Tim and Becky ",
+	"Address": "389 bedford highway",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3M 2L3",
@@ -1781,8 +1768,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Farmers Co-operative Dairy Limited",
-	"Contact Name": "Alfred Jennings",
-	"Street Address": "745 Hammonds Plains Road",
+	"ContactName": "Alfred Jennings",
+	"Address": "745 Hammonds Plains Road",
 	"City": "Bedford",
 	"Province": "",
 	"Postal Code": "B4B 1A8",
@@ -1794,8 +1781,8 @@
 	"Brands": "Farmers, Farmers Twist & Go"
 }, {
 	"Producer": "Fiore Botanica All Natural Skin Care",
-	"Contact Name": "Kathleen Quinlan and Phaedra Charlton-Huskins",
-	"Street Address": "55 Montague",
+	"ContactName": "Kathleen Quinlan and Phaedra Charlton-Huskins",
+	"Address": "55 Montague",
 	"City": "Lunenburg",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2C0",
@@ -1807,8 +1794,8 @@
 	"Brands": ""
 }, {
 	"Producer": "FireHouse Ironworks Ltd.",
-	"Contact Name": "Grant Haverstock",
-	"Street Address": "109 Main Street",
+	"ContactName": "Grant Haverstock",
+	"Address": "109 Main ",
 	"City": "Whycocomagh",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 3M0",
@@ -1820,8 +1807,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Fireside Kitchen",
-	"Contact Name": "Cindy Kingwell",
-	"Street Address": "3430 Prescott Street",
+	"ContactName": "Cindy Kingwell",
+	"Address": "3430 Prescott ",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3K 4Y4",
@@ -1833,8 +1820,8 @@
 	"Brands": "Fireside Kitchen"
 }, {
 	"Producer": "Fisherman's Market International Inc.",
-	"Contact Name": "MORGAN THORNHILL",
-	"Street Address": "607 Bedford Highway",
+	"ContactName": "MORGAN THORNHILL",
+	"Address": "607 Bedford Highway",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3M 2L6",
@@ -1846,8 +1833,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Folly Mountain Christmas Trees & Blueberries",
-	"Contact Name": "Diane Robinson",
-	"Street Address": "10784 Hwy 2",
+	"ContactName": "Diane Robinson",
+	"Address": "10784 Hwy 2",
 	"City": "Masstown",
 	"Province": "",
 	"Postal Code": "B0M 1G0",
@@ -1859,8 +1846,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Foote Family Farm",
-	"Contact Name": "George or Trina Foote",
-	"Street Address": "1972 Woodville Road",
+	"ContactName": "George or Trina Foote",
+	"Address": "1972 Woodville Road",
 	"City": "Woodville",
 	"Province": "",
 	"Postal Code": "B0P 1G0",
@@ -1872,8 +1859,8 @@
 	"Brands": "Foote Family Farm"
 }, {
 	"Producer": "Foote's Farm Market",
-	"Contact Name": "Kimberley or Brad Foote",
-	"Street Address": "1744 Highway 359",
+	"ContactName": "Kimberley or Brad Foote",
+	"Address": "1744 Highway 359",
 	"City": "Centreville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1J0",
@@ -1885,8 +1872,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Forest Hill Farm",
-	"Contact Name": "",
-	"Street Address": "1008 Chebogue Rd.",
+	"ContactName": "",
+	"Address": "1008 Chebogue Rd.",
 	"City": "Yarmouth",
 	"Province": "",
 	"Postal Code": "B5A 4A6",
@@ -1898,8 +1885,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Forest Hills Wild Blueberries",
-	"Contact Name": "George Johnson",
-	"Street Address": "497 station Road",
+	"ContactName": "George Johnson",
+	"Address": "497 station Road",
 	"City": "Great Village",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0M 1L0",
@@ -1911,8 +1898,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Forever Green Organic Farm and Gardens",
-	"Contact Name": "Terrance Boyle",
-	"Street Address": "RR#1 Afton",
+	"ContactName": "Terrance Boyle",
+	"Address": "RR#1 Afton",
 	"City": "Antigonish Co.",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1A0",
@@ -1924,8 +1911,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Forsyth's Farm Market",
-	"Contact Name": "",
-	"Street Address": "3759 Hwy 1",
+	"ContactName": "",
+	"Address": "3759 Hwy 1",
 	"City": "Berwick",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1E0",
@@ -1937,9 +1924,9 @@
 	"Brands": ""
 }, {
 	"Producer": "Fortress Rum",
-	"Contact Name": "",
-	"Street Address": "Guysborough",
-	"City": "80 Main Street",
+	"ContactName": "",
+	"Address": "Guysborough",
+	"City": "80 Main ",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1N0",
 	"Phone": "(902) 533-2078",
@@ -1950,8 +1937,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Four Seasons Farm",
-	"Contact Name": "Owen Roberts and Sina Wagner",
-	"Street Address": "RR # 1 Maitland",
+	"ContactName": "Owen Roberts and Sina Wagner",
+	"Address": "RR # 1 Maitland",
 	"City": "Maitland",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 1T0",
@@ -1963,8 +1950,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Glenhill Farm Ltd.",
-	"Contact Name": "Sid Taylor",
-	"Street Address": "2146 Lochaber Road",
+	"ContactName": "Sid Taylor",
+	"Address": "2146 Lochaber Road",
 	"City": "Antigonish County",
 	"Province": "",
 	"Postal Code": "B2G 2L3",
@@ -1976,8 +1963,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Glenora Distillery",
-	"Contact Name": "",
-	"Street Address": "13727 Route 19",
+	"ContactName": "",
+	"Address": "13727 Route 19",
 	"City": "Glenville",
 	"Province": "",
 	"Postal Code": "B0E 1X0",
@@ -1989,8 +1976,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Fox Hill Cheese House",
-	"Contact Name": "Jeanita Rand",
-	"Street Address": "1678 Church Street",
+	"ContactName": "Jeanita Rand",
+	"Address": "1678 Church ",
 	"City": "Port Williams",
 	"Province": "",
 	"Postal Code": "B0P 1T0",
@@ -2002,8 +1989,8 @@
 	"Brands": "Fox Hill Cheese"
 }, {
 	"Producer": "Fox Hollow Dairy Ltd.",
-	"Contact Name": "John Fox, General Manager, Ken Fox",
-	"Street Address": "RR # 3 Middle Musquodoboit",
+	"ContactName": "John Fox, General Manager, Ken Fox",
+	"Address": "RR # 3 Middle Musquodoboit",
 	"City": "Middle Musquodoboit",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 1X0",
@@ -2015,8 +2002,8 @@
 	"Brands": "Greta"
 }, {
 	"Producer": "Fralen Farms",
-	"Contact Name": "",
-	"Street Address": "769 Northfield Road",
+	"ContactName": "",
+	"Address": "769 Northfield Road",
 	"City": "Upper Kennetcook",
 	"Province": "",
 	"Postal Code": "B0N 2L0",
@@ -2028,8 +2015,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Free Spirit Farm",
-	"Contact Name": "Rodney Spencer and Susan Danko",
-	"Street Address": "8915 Hwy 311, RR 5",
+	"ContactName": "Rodney Spencer and Susan Danko",
+	"Address": "8915 Hwy 311, RR 5",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -2041,8 +2028,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Fresh Functional Art",
-	"Contact Name": "Janet Tanner",
-	"Street Address": "88 Front Centre Rd.",
+	"ContactName": "Janet Tanner",
+	"Address": "88 Front Centre Rd.",
 	"City": "Lunenburg",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2C0",
@@ -2054,8 +2041,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Front Porch Farm",
-	"Contact Name": "Peter LeBlanc",
-	"Street Address": "",
+	"ContactName": "Peter LeBlanc",
+	"Address": "",
 	"City": "Margaree Forks",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -2067,8 +2054,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Front Porch Farm",
-	"Contact Name": "Peter LeBlanc",
-	"Street Address": "",
+	"ContactName": "Peter LeBlanc",
+	"Address": "",
 	"City": "",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -2080,8 +2067,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Full Steam Coffee Company",
-	"Contact Name": "Susan Sangster",
-	"Street Address": "67 Main St",
+	"ContactName": "Susan Sangster",
+	"Address": "67 Main St",
 	"City": "Guysborough",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1N0",
@@ -2093,8 +2080,8 @@
 	"Brands": "Full Steam Coffee"
 }, {
 	"Producer": "Fuller Brothers",
-	"Contact Name": "",
-	"Street Address": "224 Bluff Road",
+	"ContactName": "",
+	"Address": "224 Bluff Road",
 	"City": "Avonport",
 	"Province": "",
 	"Postal Code": "B0P 1B0",
@@ -2106,8 +2093,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Fundy Dulse",
-	"Contact Name": "Wanda VanTassel",
-	"Street Address": "679 Gullivers Cove",
+	"ContactName": "Wanda VanTassel",
+	"Address": "679 Gullivers Cove",
 	"City": "Digby",
 	"Province": "",
 	"Postal Code": "B0V 1A0",
@@ -2119,8 +2106,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Funky Farmgate Farmers Market",
-	"Contact Name": "Louise Parker",
-	"Street Address": "485 Hwy 2",
+	"ContactName": "Louise Parker",
+	"Address": "485 Hwy 2",
 	"City": "Enfield",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2T 1M4",
@@ -2132,8 +2119,8 @@
 	"Brands": ""
 }, {
 	"Producer": "G.G. Smeltzer and Son",
-	"Contact Name": "",
-	"Street Address": "39 Robinson Road, PO Box 325",
+	"ContactName": "",
+	"Address": "39 Robinson Road, PO Box 325",
 	"City": "Shubenacadie",
 	"Province": "",
 	"Postal Code": "B0N 2H0",
@@ -2145,8 +2132,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Gaelic College of Arts & Crafts",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -2158,8 +2145,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Galloping Cows Fine Food",
-	"Contact Name": "Joanne Schimdt",
-	"Street Address": "59 Justin Road",
+	"ContactName": "Joanne Schimdt",
+	"Address": "59 Justin Road",
 	"City": "Port Hood",
 	"Province": "",
 	"Postal Code": "B0E 2W0",
@@ -2171,8 +2158,8 @@
 	"Brands": "Galloping Cows"
 }, {
 	"Producer": "Gamborganic Farms",
-	"Contact Name": "",
-	"Street Address": "1354 Fed Rd.",
+	"ContactName": "",
+	"Address": "1354 Fed Rd.",
 	"City": "Bear River East",
 	"Province": "",
 	"Postal Code": "B0S 1B0",
@@ -2184,8 +2171,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Garrison Brewing Co.",
-	"Contact Name": "Brian Titus, Todd Hoffman",
-	"Street Address": "1149 Marginal Road",
+	"ContactName": "Brian Titus, Todd Hoffman",
+	"Address": "1149 Marginal Road",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3H 4P7",
@@ -2197,8 +2184,8 @@
 	"Brands": "Garrison"
 }, {
 	"Producer": "Gaspereau Valley Fibres",
-	"Contact Name": "Brenda Gilmore, David sogorka",
-	"Street Address": "830 Gaspereau River Road",
+	"ContactName": "Brenda Gilmore, David sogorka",
+	"Address": "830 Gaspereau River Road",
 	"City": "Wolfvile",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2N5",
@@ -2210,8 +2197,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Gaspereau Vineyards",
-	"Contact Name": "Hans Christian Jost",
-	"Street Address": "2239 White Rock Road",
+	"ContactName": "Hans Christian Jost",
+	"Address": "2239 White Rock Road",
 	"City": "Gaspereau",
 	"Province": "",
 	"Postal Code": "B4P 2R1",
@@ -2223,8 +2210,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Gatehouse Plantation Style Hot Pepper Sauce",
-	"Contact Name": "Suzanne MacNeil",
-	"Street Address": "PO Box 2445",
+	"ContactName": "Suzanne MacNeil",
+	"Address": "PO Box 2445",
 	"City": "Windsor",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N2T0",
@@ -2236,8 +2223,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Gates U-Pick",
-	"Contact Name": "",
-	"Street Address": "1263 Starr's Point Road",
+	"ContactName": "",
+	"Address": "1263 Starr's Point Road",
 	"City": "Port Williams",
 	"Province": "",
 	"Postal Code": "B0P 1T0",
@@ -2249,8 +2236,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Getaway Farm",
-	"Contact Name": "Chris de Waal",
-	"Street Address": "617 Gospel Road",
+	"ContactName": "Chris de Waal",
+	"Address": "617 Gospel Road",
 	"City": "Canning",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1H0",
@@ -2262,8 +2249,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Getaway Farm (Hydrostone)",
-	"Contact Name": "",
-	"Street Address": "5544 Kaye St",
+	"ContactName": "",
+	"Address": "5544 Kaye St",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 1Y5",
@@ -2275,8 +2262,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Getaway Farm Butcher Shop",
-	"Contact Name": "",
-	"Street Address": "1209 Marginal Road",
+	"ContactName": "",
+	"Address": "1209 Marginal Road",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3H 4P8",
@@ -2288,8 +2275,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Glenryan Farms",
-	"Contact Name": "Kimberly Tilsley",
-	"Street Address": "484 Coady Road, RR # 1 Margaree Harbour",
+	"ContactName": "Kimberly Tilsley",
+	"Address": "484 Coady Road, RR # 1 Margaree Harbour",
 	"City": "Margaree Harbour",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 2B0",
@@ -2301,8 +2288,8 @@
 	"Brands": ""
 }, {
 	"Producer": "GLYNNEVAN Whisky",
-	"Contact Name": "John Stapleton",
-	"Street Address": "80 Main Street",
+	"ContactName": "John Stapleton",
+	"Address": "80 Main ",
 	"City": "Guysborough",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1N0",
@@ -2314,8 +2301,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Good Thyme Farm",
-	"Contact Name": "Rebecca Jones",
-	"Street Address": "22 Cold Spring Head Rd",
+	"ContactName": "Rebecca Jones",
+	"Address": "22 Cold Spring Head Rd",
 	"City": "Amherst Shore",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0L 1E0",
@@ -2327,8 +2314,8 @@
 	"Brands": ""
 }, {
 	"Producer": "GoodLeaf Farms",
-	"Contact Name": "Office Manager",
-	"Street Address": "90 Research Drive",
+	"ContactName": "Office Manager",
+	"Address": "90 Research Drive",
 	"City": "Bible Hill",
 	"Province": "Nova Scotia",
 	"Postal Code": "B6L 2R2",
@@ -2340,8 +2327,8 @@
 	"Brands": "Market Garden"
 }, {
 	"Producer": "Gothic Little Christmas, Halifax",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -2353,8 +2340,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Grainery Co-op ",
-	"Contact Name": "",
-	"Street Address": "2385 Agricola Street",
+	"ContactName": "",
+	"Address": "2385 Agricola ",
 	"City": "Haifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 4B8",
@@ -2366,8 +2353,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Grand Pre Wines Ltd.",
-	"Contact Name": "Amy Savoury",
-	"Street Address": "11611 Hwy #1",
+	"ContactName": "Amy Savoury",
+	"Address": "11611 Hwy #1",
 	"City": "Grand Pre",
 	"Province": "",
 	"Postal Code": "B0P 1M0",
@@ -2379,8 +2366,8 @@
 	"Brands": "Domaine de Grand Pre, Stutz Hard Apple Cider"
 }, {
 	"Producer": "Grass Roots Farm",
-	"Contact Name": "Bob Bottenbrite and Jane Smith",
-	"Street Address": "1502 South Rawdon Rd. Hwy 202",
+	"ContactName": "Bob Bottenbrite and Jane Smith",
+	"Address": "1502 South Rawdon Rd. Hwy 202",
 	"City": "South Rawdon, Mt. Uniacke",
 	"Province": "",
 	"Postal Code": "B0N 1Z0",
@@ -2392,8 +2379,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Graves ValuFoods",
-	"Contact Name": "",
-	"Street Address": "49 Queen Street",
+	"ContactName": "",
+	"Address": "49 Queen ",
 	"City": "Bridgetown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1C0",
@@ -2405,8 +2392,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Green Dragon Organic Farm and B&B",
-	"Contact Name": "Gerlinde Pilgrimm and Stephan Hederich",
-	"Street Address": "3082 Balmoral Rd",
+	"ContactName": "Gerlinde Pilgrimm and Stephan Hederich",
+	"Address": "3082 Balmoral Rd",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -2418,8 +2405,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Greenwood Mall Farmers Market",
-	"Contact Name": "Jennifer Chrisopherson",
-	"Street Address": "Greenwood Mall, 963 Central Avenue",
+	"ContactName": "Jennifer Chrisopherson",
+	"Address": "Greenwood Mall, 963 Central Avenue",
 	"City": "Kingston",
 	"Province": "",
 	"Postal Code": "B0P 1R0",
@@ -2431,8 +2418,8 @@
 	"Brands": ""
 }, {
 	"Producer": "GROPRO Grocery Delivery",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3H 3S4",
@@ -2444,8 +2431,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Gudi's Bavarian Sausage Station & Express",
-	"Contact Name": "Gudi Loeffler",
-	"Street Address": "P.O. Box 306",
+	"ContactName": "Gudi Loeffler",
+	"Address": "P.O. Box 306",
 	"City": "Debert",
 	"Province": "",
 	"Postal Code": "B0M 1G0",
@@ -2453,12 +2440,12 @@
 	"Fax": "",
 	"Email": "loeffler@ns.sympatico.ca",
 	"Website": "http://www.trurofarmersmarket.org/vendors/gudis-bavarian-sausage-station...",
-	"Hours": "Truro Farmers' Market (Old Fire Hall, corner of Young and Prince Street) from April to December. At the Meat Shop in Debert by appointment.  Offering a Variety of 7 different Kinds of Fresh German Sausages, ranging from mild-spicy, incl. Breakfast, Bratwurst,Donair Sausages, Italian and more; Containing only quality lean meat and no Fillers nor Preservatives!  Home cooked Deli Style Sauerkraut & Sauerkraut Salad are also available. ",
+	"Hours": "Truro Farmers' Market (Old Fire Hall, corner of Young and Prince ) from April to December. At the Meat Shop in Debert by appointment.  Offering a Variety of 7 different Kinds of Fresh German Sausages, ranging from mild-spicy, incl. Breakfast, Bratwurst,Donair Sausages, Italian and more; Containing only quality lean meat and no Fillers nor Preservatives!  Home cooked Deli Style Sauerkraut & Sauerkraut Salad are also available. ",
 	"Brands": "Gudi's Bavarian Sausages"
 }, {
 	"Producer": "Guneden Place Ltd",
-	"Contact Name": "Nahman Korem",
-	"Street Address": "2 Crown Lane",
+	"ContactName": "Nahman Korem",
+	"Address": "2 Crown Lane",
 	"City": "Baddeck",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 1B0",
@@ -2470,8 +2457,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Guysborough Community Market Co-operative",
-	"Contact Name": "",
-	"Street Address": "Jost Building, Guysborough Waterfront, 72 Main Street Extension",
+	"ContactName": "",
+	"Address": "Jost Building, Guysborough Waterfront, 72 Main  Extension",
 	"City": "Guysborough",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1N0",
@@ -2483,8 +2470,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Guysborough County Inshore Fisherman's Association",
-	"Contact Name": "",
-	"Street Address": "990 Union StreetPO Box 98",
+	"ContactName": "",
+	"Address": "990 Union PO Box 98",
 	"City": "Canso",
 	"Province": "",
 	"Postal Code": "B0H 1H0",
@@ -2496,8 +2483,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Halifax Forum Farmers' Market ",
-	"Contact Name": "John Sipos",
-	"Street Address": "2901 Windsor St",
+	"ContactName": "John Sipos",
+	"Address": "2901 Windsor St",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 5E5",
@@ -2509,8 +2496,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Halifax Seaport Farmers' Market",
-	"Contact Name": "Customer Service",
-	"Street Address": "1209 Marginal Road",
+	"ContactName": "Customer Service",
+	"Address": "1209 Marginal Road",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3H 4P8",
@@ -2522,8 +2509,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Halifax Seed ",
-	"Contact Name": "",
-	"Street Address": "5860 Kane Street",
+	"ContactName": "",
+	"Address": "5860 Kane ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -2535,8 +2522,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Halliday's U-pick",
-	"Contact Name": "",
-	"Street Address": "4613 Granville Rd.",
+	"ContactName": "",
+	"Address": "4613 Granville Rd.",
 	"City": "Granville",
 	"Province": "",
 	"Postal Code": "B0S 1K0",
@@ -2548,8 +2535,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hanks Farm Market",
-	"Contact Name": "",
-	"Street Address": "581 King Grove Rd",
+	"ContactName": "",
+	"Address": "581 King Grove Rd",
 	"City": "Bras d'Or",
 	"Province": "",
 	"Postal Code": "B1Y 2E8",
@@ -2561,8 +2548,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Harbour View Haven",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "Lunenburg",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2C0",
@@ -2574,8 +2561,8 @@
 	"Brands": ""
 }, {
 	"Producer": "HardyWares Preserves",
-	"Contact Name": "",
-	"Street Address": "RR#1",
+	"ContactName": "",
+	"Address": "RR#1",
 	"City": "NecumTeuch",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J2K0",
@@ -2587,8 +2574,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Harmeny Woolen Mill",
-	"Contact Name": "Ruth Mathewson",
-	"Street Address": "989 Upper Brookside Road",
+	"ContactName": "Ruth Mathewson",
+	"Address": "989 Upper Brookside Road",
 	"City": "Central North River",
 	"Province": "Nova Scotia",
 	"Postal Code": "B6L 6W6",
@@ -2600,8 +2587,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Jost Vineyards Limited",
-	"Contact Name": "Hans Christian Jost,",
-	"Street Address": "48 Vintage Lane",
+	"ContactName": "Hans Christian Jost,",
+	"Address": "48 Vintage Lane",
 	"City": "Malagash",
 	"Province": "",
 	"Postal Code": "B0K 1E0",
@@ -2613,8 +2600,8 @@
 	"Brands": "Jost Vineyards, Jost Winery"
 }, {
 	"Producer": "Harry Morse's U-Pick",
-	"Contact Name": "",
-	"Street Address": "4127 Brooklyn Street",
+	"ContactName": "",
+	"Address": "4127 Brooklyn ",
 	"City": "Somerset",
 	"Province": "",
 	"Postal Code": "B0P 1E0",
@@ -2626,8 +2613,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Harvest Wines & Spirits",
-	"Contact Name": "",
-	"Street Address": "268 Baker Drive",
+	"ContactName": "",
+	"Address": "268 Baker Drive",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2W 6L4",
@@ -2639,8 +2626,8 @@
 	"Brands": ""
 }, {
 	"Producer": "haskapa Haskap Berry Products",
-	"Contact Name": "",
-	"Street Address": "605-607 Main St",
+	"ContactName": "",
+	"Address": "605-607 Main St",
 	"City": "Mahone Bay",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2E0",
@@ -2652,8 +2639,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Haveracres Farm",
-	"Contact Name": "",
-	"Street Address": "318 St. Joseph's Road",
+	"ContactName": "",
+	"Address": "318 St. Joseph's Road",
 	"City": "Antigonish",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2G 2K8",
@@ -2665,8 +2652,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hawthorn Hill Farm",
-	"Contact Name": "Marilyn and Paul Cameron",
-	"Street Address": "409 Arnold Road",
+	"ContactName": "Marilyn and Paul Cameron",
+	"Address": "409 Arnold Road",
 	"City": "Grafton",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1V0",
@@ -2678,8 +2665,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Healthy Selections",
-	"Contact Name": "",
-	"Street Address": "106 Stellarton Road",
+	"ContactName": "",
+	"Address": "106 Stellarton Road",
 	"City": "New Glasgow",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -2691,8 +2678,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Heart and Soil CSA Farm",
-	"Contact Name": "Laura VanHattem-Contant",
-	"Street Address": "271 Burgess Mountain Road",
+	"ContactName": "Laura VanHattem-Contant",
+	"Address": "271 Burgess Mountain Road",
 	"City": "Woodville",
 	"Province": "",
 	"Postal Code": "B0P 1G0",
@@ -2704,8 +2691,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hennigar's Farm Market",
-	"Contact Name": "Heather Hennigar",
-	"Street Address": "10272 Hwy 1",
+	"ContactName": "Heather Hennigar",
+	"Address": "10272 Hwy 1",
 	"City": "Wolfville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2R2",
@@ -2717,8 +2704,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Herring Choker Deli Cafe",
-	"Contact Name": "",
-	"Street Address": "10158 TCH 105",
+	"ContactName": "",
+	"Address": "10158 TCH 105",
 	"City": "Nyanza",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 1B0",
@@ -2730,8 +2717,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hidden Meadow Farm",
-	"Contact Name": "",
-	"Street Address": "6708 Brookland Street",
+	"ContactName": "",
+	"Address": "6708 Brookland ",
 	"City": "Lakeville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4N 3V7",
@@ -2743,8 +2730,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hidden Mountain Maple Farms",
-	"Contact Name": "Matthew Harrison",
-	"Street Address": "1889 Lynn Road",
+	"ContactName": "Matthew Harrison",
+	"Address": "1889 Lynn Road",
 	"City": "Southampton",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0M 1W0",
@@ -2756,8 +2743,8 @@
 	"Brands": ""
 }, {
 	"Producer": "High Ridge Vineyards",
-	"Contact Name": "Kevin Hudson",
-	"Street Address": "98 Shore Rd.",
+	"ContactName": "Kevin Hudson",
+	"Address": "98 Shore Rd.",
 	"City": "Lower Debert",
 	"Province": "NS",
 	"Postal Code": "B0M 1G0",
@@ -2769,8 +2756,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Highland Village Gift Shop",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -2782,8 +2769,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Highview Farm",
-	"Contact Name": "",
-	"Street Address": "1155 Grand Pre RoadRR 3",
+	"ContactName": "",
+	"Address": "1155 Grand Pre RoadRR 3",
 	"City": "Wolfville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2R3",
@@ -2795,8 +2782,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hilly Acres Farm Ltd.",
-	"Contact Name": "Theodore Eyking",
-	"Street Address": "289 Millville Hwy",
+	"ContactName": "Theodore Eyking",
+	"Address": "289 Millville Hwy",
 	"City": "Cape Breton",
 	"Province": "",
 	"Postal Code": "B1Y 2E3",
@@ -2808,8 +2795,8 @@
 	"Brands": "Farmer John, Eyking Delite"
 }, {
 	"Producer": "Historic Halifax Farmers Market",
-	"Contact Name": "Austin Mannette",
-	"Street Address": "1496 Lower Water Street",
+	"ContactName": "Austin Mannette",
+	"Address": "1496 Lower Water ",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3J 1R5",
@@ -2821,8 +2808,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Holdanca Farms Ltd.",
-	"Contact Name": "John Duynisveld",
-	"Street Address": "12628 Hwy 6",
+	"ContactName": "John Duynisveld",
+	"Address": "12628 Hwy 6",
 	"City": "Wallace",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1Y0",
@@ -2834,8 +2821,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Holmestead Cheese Sales Inc.",
-	"Contact Name": "Susan Tziolas, Nick Tziolas",
-	"Street Address": "2439 Harmony Road",
+	"ContactName": "Susan Tziolas, Nick Tziolas",
+	"Address": "2439 Harmony Road",
 	"City": "Aylesford",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1C0",
@@ -2847,8 +2834,8 @@
 	"Brands": "Holmestead Cheese"
 }, {
 	"Producer": "Honey Wind Farm",
-	"Contact Name": "Jerry Draheim",
-	"Street Address": "7501 Route 321, RR # 2",
+	"ContactName": "Jerry Draheim",
+	"Address": "7501 Route 321, RR # 2",
 	"City": "Port Howe",
 	"Province": "",
 	"Postal Code": "B0K 1K0",
@@ -2860,8 +2847,8 @@
 	"Brands": "Honey Wind Farm"
 }, {
 	"Producer": "Hope Seeds",
-	"Contact Name": "",
-	"Street Address": "324 St. George Street",
+	"ContactName": "",
+	"Address": "324 St. George ",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -2873,8 +2860,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Horizon Achievement Centre",
-	"Contact Name": "Lisa Reiley",
-	"Street Address": "780 Upper Prince Street",
+	"ContactName": "Lisa Reiley",
+	"Address": "780 Upper Prince ",
 	"City": "Sydney",
 	"Province": "",
 	"Postal Code": "B1P 5N6",
@@ -2886,8 +2873,8 @@
 	"Brands": "Horizon Achievement Centre"
 }, {
 	"Producer": "Horse & Garden Farm",
-	"Contact Name": "Charlotte Harper",
-	"Street Address": "1563 Wentworth Road, RR#1",
+	"ContactName": "Charlotte Harper",
+	"Address": "1563 Wentworth Road, RR#1",
 	"City": "Windsor",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2T0",
@@ -2899,8 +2886,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Horyl's Superior Sausage Co. Ltd.",
-	"Contact Name": "Frank Horyl",
-	"Street Address": "5247 Union HwyP.O. Box 128",
+	"ContactName": "Frank Horyl",
+	"Address": "5247 Union HwyP.O. Box 128",
 	"City": "New Waterford",
 	"Province": "",
 	"Postal Code": "B1H 4K4",
@@ -2912,8 +2899,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Howard Dill Enterprises",
-	"Contact Name": "",
-	"Street Address": "400 College Road",
+	"ContactName": "",
+	"Address": "400 College Road",
 	"City": "Windsor",
 	"Province": "",
 	"Postal Code": "B0N 2T0",
@@ -2925,8 +2912,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Just Us! Coffee Roasters Co-op",
-	"Contact Name": "sales@justuscoffee.com",
-	"Street Address": "11865 Hwy 1, RR#3 Wolfville",
+	"ContactName": "sales@justuscoffee.com",
+	"Address": "11865 Hwy 1, RR#3 Wolfville",
 	"City": "Wolfville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2R3",
@@ -2938,8 +2925,8 @@
 	"Brands": "Just Us!"
 }, {
 	"Producer": "Kennie's Strawberry Farm",
-	"Contact Name": "",
-	"Street Address": "1164 Upper Church Street",
+	"ContactName": "",
+	"Address": "1164 Upper Church ",
 	"City": "Kentville",
 	"Province": "",
 	"Postal Code": "B4N 3V7",
@@ -2947,12 +2934,12 @@
 	"Fax": "",
 	"Email": "droberts@xcountry.tv",
 	"Website": "http://www.kenniesfarm.com/index.php",
-	"Hours": "Our Retail truck can be found at 8896 Commercial Street, New Minas during Strawberry season, Monday to Sunday from 9:00 am to 5:00 pm",
+	"Hours": "Our Retail truck can be found at 8896 Commercial , New Minas during Strawberry season, Monday to Sunday from 9:00 am to 5:00 pm",
 	"Brands": ""
 }, {
 	"Producer": "Kenny's Farm Market",
-	"Contact Name": "",
-	"Street Address": "121 Main Street",
+	"ContactName": "",
+	"Address": "121 Main ",
 	"City": "Wolfville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2L7",
@@ -2964,8 +2951,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hubbards Farmers Market",
-	"Contact Name": "Ashley Marlin",
-	"Street Address": "Hubbards Barn and Community Park, # 57 Hwy 3",
+	"ContactName": "Ashley Marlin",
+	"Address": "Hubbards Barn and Community Park, # 57 Hwy 3",
 	"City": "Hubbards",
 	"Province": "",
 	"Postal Code": "B0J 1T0",
@@ -2977,8 +2964,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hubert and Belle's",
-	"Contact Name": "Patti Durkee",
-	"Street Address": "3212 Highway 1",
+	"ContactName": "Patti Durkee",
+	"Address": "3212 Highway 1",
 	"City": "Port Maitlland",
 	"Province": "Nova Scotia",
 	"Postal Code": "B5A5T3",
@@ -2990,8 +2977,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Hutten Family Farm",
-	"Contact Name": "Ted and Debra Hutten",
-	"Street Address": "161 Thorpe Road",
+	"ContactName": "Ted and Debra Hutten",
+	"Address": "161 Thorpe Road",
 	"City": "Lakeville, NS",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4N 3V7",
@@ -3003,8 +2990,8 @@
 	"Brands": ""
 }, {
 	"Producer": "I.M.O. Foods Ltd.",
-	"Contact Name": "",
-	"Street Address": "26 Water St.",
+	"ContactName": "",
+	"Address": "26 Water St.",
 	"City": "Yarmouth",
 	"Province": "",
 	"Postal Code": "B5A 4B2",
@@ -3016,8 +3003,8 @@
 	"Brands": ""
 }, {
 	"Producer": "In The Raw",
-	"Contact Name": "Lenna",
-	"Street Address": "4888 #7 Hwy",
+	"ContactName": "Lenna",
+	"Address": "4888 #7 Hwy",
 	"City": "Porters Lake",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3E 1J5",
@@ -3029,8 +3016,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Indian Creek Farm",
-	"Contact Name": "Adam Hankinson",
-	"Street Address": "4323 Highway 1",
+	"ContactName": "Adam Hankinson",
+	"Address": "4323 Highway 1",
 	"City": "Weymouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0W 3T0",
@@ -3042,8 +3029,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Indian Garden Farm Market",
-	"Contact Name": "",
-	"Street Address": "15401 Hwy 3",
+	"ContactName": "",
+	"Address": "15401 Hwy 3",
 	"City": "Hebbville",
 	"Province": "",
 	"Postal Code": "B4V 6X7",
@@ -3055,8 +3042,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Indian Point Marine Farms Ltd",
-	"Contact Name": "",
-	"Street Address": "82 Indian Point Road",
+	"ContactName": "",
+	"Address": "82 Indian Point Road",
 	"City": "Indian Point",
 	"Province": "",
 	"Postal Code": "B0J 2E0",
@@ -3068,8 +3055,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Inglis Farm",
-	"Contact Name": "",
-	"Street Address": "2611 Hwy 201",
+	"ContactName": "",
+	"Address": "2611 Hwy 201",
 	"City": "Tupperville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1C0",
@@ -3081,8 +3068,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Inkwell Modern Handmade Boutique & Letterpress Studio",
-	"Contact Name": "",
-	"Street Address": "1658 Market Street",
+	"ContactName": "",
+	"Address": "1658 Market ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 0B7",
@@ -3094,8 +3081,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Inverness County Centre for the Arts",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -3107,8 +3094,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Inverness Village Market",
-	"Contact Name": "Claire Pothier",
-	"Street Address": "Inverness Cottage Workshop Building, 46 Lower Railway Street",
+	"ContactName": "Claire Pothier",
+	"Address": "Inverness Cottage Workshop Building, 46 Lower Railway ",
 	"City": "Inverness",
 	"Province": "",
 	"Postal Code": "B0E 1N0",
@@ -3120,8 +3107,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ironwood Farm",
-	"Contact Name": "Rupert Jannasch/Heather Johnson",
-	"Street Address": "5184 Hwy 215 RR 1 Newport",
+	"ContactName": "Rupert Jannasch/Heather Johnson",
+	"Address": "5184 Hwy 215 RR 1 Newport",
 	"City": "Summerville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2A0",
@@ -3133,8 +3120,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ironworks Distillery",
-	"Contact Name": "Lynne MacKay",
-	"Street Address": "2 Kempt St",
+	"ContactName": "Lynne MacKay",
+	"Address": "2 Kempt St",
 	"City": "Lunenburg",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2C0",
@@ -3146,8 +3133,8 @@
 	"Brands": "Ironworks"
 }, {
 	"Producer": "Italian Market",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -3159,8 +3146,8 @@
 	"Brands": ""
 }, {
 	"Producer": "J.W. Mason and Son's Ltd.",
-	"Contact Name": "",
-	"Street Address": "836 Windsor Back Rd.",
+	"ContactName": "",
+	"Address": "836 Windsor Back Rd.",
 	"City": "Windsor",
 	"Province": "",
 	"Postal Code": "B0N 2T0",
@@ -3172,8 +3159,8 @@
 	"Brands": "Mason"
 }, {
 	"Producer": "Johnson's Stonehenge Farm",
-	"Contact Name": "Dawn Chiasson",
-	"Street Address": "2399 Harmony Road",
+	"ContactName": "Dawn Chiasson",
+	"Address": "2399 Harmony Road",
 	"City": "Aylesford",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1C0",
@@ -3185,8 +3172,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Jordan Farms",
-	"Contact Name": "Bob Jordan",
-	"Street Address": "399 Warwick Mountain Road, New Annan",
+	"ContactName": "Bob Jordan",
+	"Address": "399 Warwick Mountain Road, New Annan",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -3194,12 +3181,12 @@
 	"Fax": "",
 	"Email": "objordano@seasidehighspeed.com",
 	"Website": "http://www.jordanfarms.ca",
-	"Hours": "end of June/July U-pick is open daily or phone orders for local delivey only, order and pickup your berries at the farm.  Weather permitting, berries are also sold at road side stand on Main Street  at the church parking lot.",
+	"Hours": "end of June/July U-pick is open daily or phone orders for local delivey only, order and pickup your berries at the farm.  Weather permitting, berries are also sold at road side stand on Main   at the church parking lot.",
 	"Brands": ""
 }, {
 	"Producer": "Kentville Farmers Market",
-	"Contact Name": "Catherine Coles",
-	"Street Address": "Centre Square, Downtown Kentville",
+	"ContactName": "Catherine Coles",
+	"Address": "Centre Square, Downtown Kentville",
 	"City": "Kentville",
 	"Province": "",
 	"Postal Code": "",
@@ -3211,8 +3198,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Kevin's Greenhouse",
-	"Contact Name": "Kevin Berry",
-	"Street Address": "472 Highway 311",
+	"ContactName": "Kevin Berry",
+	"Address": "472 Highway 311",
 	"City": "North River",
 	"Province": "Nova Scotia",
 	"Postal Code": "b6l6g8",
@@ -3224,8 +3211,8 @@
 	"Brands": ""
 }, {
 	"Producer": "King Limousin Farm",
-	"Contact Name": "",
-	"Street Address": "59 new road Dayton",
+	"ContactName": "",
+	"Address": "59 new road Dayton",
 	"City": "Yarmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B5A 4A8",
@@ -3237,8 +3224,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Kings Produce",
-	"Contact Name": "Carolyn Bishop",
-	"Street Address": "PO Box 157",
+	"ContactName": "Carolyn Bishop",
+	"Address": "PO Box 157",
 	"City": "Canning",
 	"Province": "",
 	"Postal Code": "B0P 1H0",
@@ -3250,8 +3237,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Kingsville Farm",
-	"Contact Name": "Jamie or Laura",
-	"Street Address": "34 Dans Lane",
+	"ContactName": "Jamie or Laura",
+	"Address": "34 Dans Lane",
 	"City": "Kingsville",
 	"Province": "",
 	"Postal Code": "B0E 3L0",
@@ -3263,8 +3250,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Kittilsen's Honey",
-	"Contact Name": "Paul Kittilsen, Lori Kittilsen",
-	"Street Address": "80 George Weatherby, RR # 1 Debert",
+	"ContactName": "Paul Kittilsen, Lori Kittilsen",
+	"Address": "80 George Weatherby, RR # 1 Debert",
 	"City": "Debert",
 	"Province": "",
 	"Postal Code": "B0M 1G0",
@@ -3276,8 +3263,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Knol Farms Limited",
-	"Contact Name": "Henry Knol, Treasa Pauley",
-	"Street Address": "2019 Wyvern Road",
+	"ContactName": "Henry Knol, Treasa Pauley",
+	"Address": "2019 Wyvern Road",
 	"City": "Collingwood",
 	"Province": "",
 	"Postal Code": "B0M 1E0",
@@ -3289,8 +3276,8 @@
 	"Brands": "Knol Farms"
 }, {
 	"Producer": "Knoydart  Farm",
-	"Contact Name": "Frazer Hunter",
-	"Street Address": "7037 Route 245",
+	"ContactName": "Frazer Hunter",
+	"Address": "7037 Route 245",
 	"City": "Merigomish",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1G0",
@@ -3302,8 +3289,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Krispi Kraut",
-	"Contact Name": "Kevin Rhodenizer",
-	"Street Address": "RR # 3 Lunenburg",
+	"ContactName": "Kevin Rhodenizer",
+	"Address": "RR # 3 Lunenburg",
 	"City": "Lunenburg",
 	"Province": "",
 	"Postal Code": "B0J 2C0",
@@ -3315,8 +3302,8 @@
 	"Brands": "Krispi Kraut"
 }, {
 	"Producer": "L'Acadie Vineyards",
-	"Contact Name": "Bruce Ewert",
-	"Street Address": "310 Slayter Rd",
+	"ContactName": "Bruce Ewert",
+	"Address": "310 Slayter Rd",
 	"City": "Gaspereau",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2R1",
@@ -3328,8 +3315,8 @@
 	"Brands": "Prestige Brut Estate, Vintage Cuvee, Passito"
 }, {
 	"Producer": "La Torta",
-	"Contact Name": "",
-	"Street Address": "117 Front Street",
+	"ContactName": "",
+	"Address": "117 Front ",
 	"City": "Wolfville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 1A5",
@@ -3341,8 +3328,8 @@
 	"Brands": ""
 }, {
 	"Producer": "LaHave Bakery",
-	"Contact Name": "Shelley Tracey",
-	"Street Address": "3421 Hwy 331",
+	"ContactName": "Shelley Tracey",
+	"Address": "3421 Hwy 331",
 	"City": "LaHave",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0R 1C0",
@@ -3354,8 +3341,8 @@
 	"Brands": "LaHave Bakery"
 }, {
 	"Producer": "Lane's Privateer Inn",
-	"Contact Name": "",
-	"Street Address": "27 Bristol Avenue",
+	"ContactName": "",
+	"Address": "27 Bristol Avenue",
 	"City": "Liverpool",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0T 1K0",
@@ -3367,8 +3354,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Laughing Whale Coffee Roasters",
-	"Contact Name": "Steven Zubalik",
-	"Street Address": "263 Lincoln Street",
+	"ContactName": "Steven Zubalik",
+	"Address": "263 Lincoln ",
 	"City": "Lunenburg",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2C0",
@@ -3380,8 +3367,8 @@
 	"Brands": "Laughing Whale"
 }, {
 	"Producer": "Lazy Brook Farm",
-	"Contact Name": "Darlene Hill & Garry Messom",
-	"Street Address": "975-9 Rafuse Rd",
+	"ContactName": "Darlene Hill & Garry Messom",
+	"Address": "975-9 Rafuse Rd",
 	"City": "Waterville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1V0",
@@ -3393,8 +3380,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lequille Country Store",
-	"Contact Name": "",
-	"Street Address": "9543 Highway 8",
+	"ContactName": "",
+	"Address": "9543 Highway 8",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -3406,8 +3393,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Les MarchÃ©s de la Baie",
-	"Contact Name": "",
-	"Street Address": "3255 Route 1, Belliveau Cove (Beside the wharf)",
+	"ContactName": "",
+	"Address": "3255 Route 1, Belliveau Cove (Beside the wharf)",
 	"City": "Belliveau's Cove",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0W 1J0",
@@ -3419,8 +3406,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Linden Leas Choice Beef",
-	"Contact Name": "",
-	"Street Address": "8473 Route 366",
+	"ContactName": "",
+	"Address": "8473 Route 366",
 	"City": "Linden",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4H 3Y2",
@@ -3432,8 +3419,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lismore Sheep Farm Wool Shop",
-	"Contact Name": "John Crawford",
-	"Street Address": "1389 Louisville Road",
+	"ContactName": "John Crawford",
+	"Address": "1389 Louisville Road",
 	"City": "River John",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1N0",
@@ -3445,8 +3432,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lismore Sheep Farm Wool Shop, River John, NS",
-	"Contact Name": "",
-	"Street Address": "1389 Louisville Rd",
+	"ContactName": "",
+	"Address": "1389 Louisville Rd",
 	"City": "River John",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1No",
@@ -3458,8 +3445,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Local Source Market (Halifax) ",
-	"Contact Name": "Sean Gallagher",
-	"Street Address": "2530 Agricola Street",
+	"ContactName": "Sean Gallagher",
+	"Address": "2530 Agricola ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 4C5",
@@ -3471,8 +3458,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Localmotive Farm",
-	"Contact Name": "Jody Nelson",
-	"Street Address": "601 Cabot Trail",
+	"ContactName": "Jody Nelson",
+	"Address": "601 Cabot Trail",
 	"City": "Hunters Mountain",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 1B0",
@@ -3484,8 +3471,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lokal Resto and Market",
-	"Contact Name": "",
-	"Street Address": "604 Prince Street",
+	"ContactName": "",
+	"Address": "604 Prince ",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -3497,8 +3484,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lore's Strawberry Farm",
-	"Contact Name": "JACKSON LORE",
-	"Street Address": "5505 Upper Clyde Road",
+	"ContactName": "JACKSON LORE",
+	"Address": "5505 Upper Clyde Road",
 	"City": "SHELBURNE/MIDDLE CLYDE RIVER",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0T 1W0",
@@ -3510,8 +3497,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rocky Top Farm",
-	"Contact Name": "Nelson Millet",
-	"Street Address": "150 Will Turner Road",
+	"ContactName": "Nelson Millet",
+	"Address": "150 Will Turner Road",
 	"City": "New Ross",
 	"Province": "",
 	"Postal Code": "B0J 2M0",
@@ -3523,8 +3510,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lunenburg County Winery",
-	"Contact Name": "Heather Sanft",
-	"Street Address": "813 Walburne Road",
+	"ContactName": "Heather Sanft",
+	"Address": "813 Walburne Road",
 	"City": "Mahone Bay",
 	"Province": "",
 	"Postal Code": "B0J 2E0",
@@ -3536,8 +3523,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lunenburg Farmers' Market",
-	"Contact Name": "Ashley Marlin",
-	"Street Address": "17 Green St",
+	"ContactName": "Ashley Marlin",
+	"Address": "17 Green St",
 	"City": "Lunenburg",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2C0",
@@ -3549,8 +3536,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Lunenburg Pudding and Sausage Company",
-	"Contact Name": "Richard Greek",
-	"Street Address": "276A St. Phillips Street",
+	"ContactName": "Richard Greek",
+	"Address": "276A St. Phillips ",
 	"City": "Bridgewater",
 	"Province": "",
 	"Postal Code": "B4V 1W8",
@@ -3562,8 +3549,8 @@
 	"Brands": "Lunenburg Pudding, Sausage - Homemade Style Mincemeat."
 }, {
 	"Producer": "M.A. Hatt & Son Limited",
-	"Contact Name": "Ralph Hatt",
-	"Street Address": "405 Highway 324RR#3 Lunenberg",
+	"ContactName": "Ralph Hatt",
+	"Address": "405 Highway 324RR#3 Lunenberg",
 	"City": "Lilydale",
 	"Province": "",
 	"Postal Code": "B0J 2C0",
@@ -3575,8 +3562,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mabou Farmers' Market",
-	"Contact Name": "Ann Sherrington",
-	"Street Address": "186 Mabou Harbour Rd",
+	"ContactName": "Ann Sherrington",
+	"Address": "186 Mabou Harbour Rd",
 	"City": "Mabou",
 	"Province": "",
 	"Postal Code": "B0E 1X0",
@@ -3588,8 +3575,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mac Berry Farms",
-	"Contact Name": "",
-	"Street Address": "1279 Sherman Belcher Rd",
+	"ContactName": "",
+	"Address": "1279 Sherman Belcher Rd",
 	"City": "Centreville",
 	"Province": "",
 	"Postal Code": "B0P 1J0",
@@ -3601,8 +3588,8 @@
 	"Brands": ""
 }, {
 	"Producer": "MacDougall Meadows",
-	"Contact Name": "",
-	"Street Address": "3110 Highway 215",
+	"ContactName": "",
+	"Address": "3110 Highway 215",
 	"City": "Newport Corner, NS",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -3614,8 +3601,8 @@
 	"Brands": ""
 }, {
 	"Producer": "MacLean's U-pick",
-	"Contact Name": "Peter & Donnie MacLean",
-	"Street Address": "1487 Greenhill Road",
+	"ContactName": "Peter & Donnie MacLean",
+	"Address": "1487 Greenhill Road",
 	"City": "Durham, Pictou County",
 	"Province": "",
 	"Postal Code": "B0K 1H0",
@@ -3627,8 +3614,8 @@
 	"Brands": ""
 }, {
 	"Producer": "MacNutts Maple Syrup",
-	"Contact Name": "Alex MacNutt",
-	"Street Address": "6011 Hwy 311",
+	"ContactName": "Alex MacNutt",
+	"Address": "6011 Hwy 311",
 	"City": "Earltown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -3640,8 +3627,8 @@
 	"Brands": "MacNutts Maple"
 }, {
 	"Producer": "Mallett's Gourmet",
-	"Contact Name": "James or Michelle Mallett",
-	"Street Address": "510 Les Collins Ave",
+	"ContactName": "James or Michelle Mallett",
+	"Address": "510 Les Collins Ave",
 	"City": "West Chezzetcook",
 	"Province": "",
 	"Postal Code": "B0J 1N0",
@@ -3653,8 +3640,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Manning's Family Farm Market",
-	"Contact Name": "",
-	"Street Address": "50 Oakdale Lane",
+	"ContactName": "",
+	"Address": "50 Oakdale Lane",
 	"City": "Falmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1L0",
@@ -3666,8 +3653,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Maple Mist Farm",
-	"Contact Name": "Peter Grant",
-	"Street Address": "1927 Kemptown Road",
+	"ContactName": "Peter Grant",
+	"Address": "1927 Kemptown Road",
 	"City": "Colchester",
 	"Province": "",
 	"Postal Code": "B0N 1Y0",
@@ -3679,8 +3666,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Maple Shade Gardens",
-	"Contact Name": "Bernhard and Linda Loewen",
-	"Street Address": "RR 1, 1285 Finley Rd.",
+	"ContactName": "Bernhard and Linda Loewen",
+	"Address": "RR 1, 1285 Finley Rd.",
 	"City": "Upper Kennetcook",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2L0",
@@ -3692,8 +3679,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mapleton Enterprises Limited",
-	"Contact Name": "",
-	"Street Address": "RR # 1 Southampton",
+	"ContactName": "",
+	"Address": "RR # 1 Southampton",
 	"City": "Southampton",
 	"Province": "",
 	"Postal Code": "B0M 1W0",
@@ -3705,8 +3692,8 @@
 	"Brands": "Mapleton Enterprises Ltd."
 }, {
 	"Producer": "Margaree Forks Co-op",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "Margaree Forks",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -3718,8 +3705,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Margaree Forks Co-op",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -3731,8 +3718,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Maria's Health Food Store",
-	"Contact Name": "",
-	"Street Address": "7165  Hwy 1",
+	"ContactName": "",
+	"Address": "7165  Hwy 1",
 	"City": "Coldbrook",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4R 1A2",
@@ -3744,8 +3731,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Marie and Guy's House Bread French Bakery",
-	"Contact Name": "Guy or Marie",
-	"Street Address": "609 Main StreetP0 Box : 351",
+	"ContactName": "Guy or Marie",
+	"Address": "609 Main P0 Box : 351",
 	"City": "Kingston",
 	"Province": "",
 	"Postal Code": "B0P 1R0",
@@ -3757,8 +3744,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mariposa Natural Market & Cafe",
-	"Contact Name": "Cait Redmond/Steve Myrden",
-	"Street Address": "5229 St. Margaret's Bay Rd.",
+	"ContactName": "Cait Redmond/Steve Myrden",
+	"Address": "5229 St. Margaret's Bay Rd.",
 	"City": "Upper Tantallon",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3Z 4R5",
@@ -3770,8 +3757,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Maritime Pasty Co.",
-	"Contact Name": "Leah Jones",
-	"Street Address": "2901 Windsor StreetHalifax Forum",
+	"ContactName": "Leah Jones",
+	"Address": "2901 Windsor Halifax Forum",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3K 5E5",
@@ -3783,8 +3770,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Market on the Mersey",
-	"Contact Name": "",
-	"Street Address": "Hank Snow Museum, 148 Bristol Ave.",
+	"ContactName": "",
+	"Address": "Hank Snow Museum, 148 Bristol Ave.",
 	"City": "Liverpool",
 	"Province": "",
 	"Postal Code": "B0T 1K0",
@@ -3796,8 +3783,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mary's African Cuisine",
-	"Contact Name": "Mary Nkrumah",
-	"Street Address": "",
+	"ContactName": "Mary Nkrumah",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -3809,8 +3796,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mary's Bread Basket",
-	"Contact Name": "Mary Mohammed, Joy Strickland, Dale Beagsley",
-	"Street Address": "1496 Lower Water Street",
+	"ContactName": "Mary Mohammed, Joy Strickland, Dale Beagsley",
+	"Address": "1496 Lower Water ",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3J 1R9",
@@ -3822,8 +3809,8 @@
 	"Brands": "Mary's Bread Basket"
 }, {
 	"Producer": "Masstown Market",
-	"Contact Name": "",
-	"Street Address": "10622 Highway #2",
+	"ContactName": "",
+	"Address": "10622 Highway #2",
 	"City": "Masstown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0M 1G0",
@@ -3835,8 +3822,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mateus Bistro",
-	"Contact Name": "",
-	"Street Address": "533 Main St",
+	"ContactName": "",
+	"Address": "533 Main St",
 	"City": "Mahone Bay",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 1T0",
@@ -3848,8 +3835,8 @@
 	"Brands": ""
 }, {
 	"Producer": "McCulloch Family Bakery",
-	"Contact Name": "Lesley McCulloch",
-	"Street Address": "175 George St.",
+	"ContactName": "Lesley McCulloch",
+	"Address": "175 George St.",
 	"City": "Stewiacke",
 	"Province": "",
 	"Postal Code": "B0N 2J0",
@@ -3861,8 +3848,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Meadow Brook Farm",
-	"Contact Name": "",
-	"Street Address": "767 Upper River John Road",
+	"ContactName": "",
+	"Address": "767 Upper River John Road",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -3874,8 +3861,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rooyakkers Farm Limited",
-	"Contact Name": "Martin Rooyakkers",
-	"Street Address": "RR #1 West Bay Road",
+	"ContactName": "Martin Rooyakkers",
+	"Address": "RR #1 West Bay Road",
 	"City": "West Bay",
 	"Province": "",
 	"Postal Code": "B0E 3L0",
@@ -3887,8 +3874,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Meadowbrook Meat Market",
-	"Contact Name": "Margie Lamb",
-	"Street Address": "318 Pleasant Valley Rd",
+	"ContactName": "Margie Lamb",
+	"Address": "318 Pleasant Valley Rd",
 	"City": "Berwick",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1E0",
@@ -3900,8 +3887,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Melvin Farms Ltd.",
-	"Contact Name": "Richard Melvin",
-	"Street Address": "420 North Medford Rd.Canning",
+	"ContactName": "Richard Melvin",
+	"Address": "420 North Medford Rd.Canning",
 	"City": "RR# 2 Canning",
 	"Province": "",
 	"Postal Code": "B0P 1H0",
@@ -3913,8 +3900,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mere Health Foods ",
-	"Contact Name": "Teresa & Tony Van Wilgenburg   ",
-	"Street Address": "11 Crescent Drive",
+	"ContactName": "Teresa & Tony Van Wilgenburg   ",
+	"Address": "11 Crescent Drive",
 	"City": "New Minas",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4N 3G7",
@@ -3926,8 +3913,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mid Valley Farmers Market",
-	"Contact Name": "",
-	"Street Address": "1151 Bridge St.",
+	"ContactName": "",
+	"Address": "1151 Bridge St.",
 	"City": "Kingston",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1R0",
@@ -3939,8 +3926,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Millen Farms Ltd.",
-	"Contact Name": "Curtis or Ann Millen",
-	"Street Address": "80 Little Dyke Road",
+	"ContactName": "Curtis or Ann Millen",
+	"Address": "80 Little Dyke Road",
 	"City": "Great Village",
 	"Province": "",
 	"Postal Code": "B0M 1L0",
@@ -3952,8 +3939,8 @@
 	"Brands": ""
 }, {
 	"Producer": "MMF Fisheries Ltd.",
-	"Contact Name": "",
-	"Street Address": "1279 Route 335",
+	"ContactName": "",
+	"Address": "1279 Route 335",
 	"City": "Middle West Pubnico",
 	"Province": "",
 	"Postal Code": "B0W 2M0",
@@ -3965,8 +3952,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mon Espoir Farm",
-	"Contact Name": "David Brennick",
-	"Street Address": "165 Villa Drive",
+	"ContactName": "David Brennick",
+	"Address": "165 Villa Drive",
 	"City": "Little Bras D'Or",
 	"Province": "",
 	"Postal Code": "B1Y 2Y4",
@@ -3978,8 +3965,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Moon Fire Farm",
-	"Contact Name": "",
-	"Street Address": "233 Cogmagun Rd RR#1",
+	"ContactName": "",
+	"Address": "233 Cogmagun Rd RR#1",
 	"City": "Centre Burlington",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 1E0",
@@ -3991,8 +3978,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Morse's Farm Ltd.",
-	"Contact Name": "Anthony or Linda Morse",
-	"Street Address": "116 Main Street",
+	"ContactName": "Anthony or Linda Morse",
+	"Address": "116 Main ",
 	"City": "Berwick",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1E0",
@@ -4004,8 +3991,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mosaic Market",
-	"Contact Name": "",
-	"Street Address": "141 Water Street",
+	"ContactName": "",
+	"Address": "141 Water ",
 	"City": "Windsor",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2T0",
@@ -4017,8 +4004,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mountain Farm U-Pick",
-	"Contact Name": "Margaret Minney",
-	"Street Address": "901 Mountain Road",
+	"ContactName": "Margaret Minney",
+	"Address": "901 Mountain Road",
 	"City": "River John",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1N0",
@@ -4030,8 +4017,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Mr. Donair Ltd.",
-	"Contact Name": "Michelle Mitchelmore",
-	"Street Address": "386 Herring Cove Rd.",
+	"ContactName": "Michelle Mitchelmore",
+	"Address": "386 Herring Cove Rd.",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3R 1W4",
@@ -4043,8 +4030,8 @@
 	"Brands": "Mr. Donair"
 }, {
 	"Producer": "Musquodoboit Harbour Farmers' Market",
-	"Contact Name": "Leslie Savoy",
-	"Street Address": "67 Park Road",
+	"ContactName": "Leslie Savoy",
+	"Address": "67 Park Road",
 	"City": "Musquodoboit Harbour",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2L0",
@@ -4056,8 +4043,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Nan's Rock Shop",
-	"Contact Name": "",
-	"Street Address": "13995 Hwy #1",
+	"ContactName": "",
+	"Address": "13995 Hwy #1",
 	"City": "Wilmot",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -4069,8 +4056,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Naturally Nova Scotia Health Products Ltd.",
-	"Contact Name": "Nancy Smithers",
-	"Street Address": "2769 Lawrencetown Road",
+	"ContactName": "Nancy Smithers",
+	"Address": "2769 Lawrencetown Road",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2Z 1L3",
@@ -4082,8 +4069,8 @@
 	"Brands": "Naturally Nova Scotia, Nova Scotia Natural"
 }, {
 	"Producer": "Nature's Natural Solutions (NNS)",
-	"Contact Name": "Tracy Tappin",
-	"Street Address": "Post Road",
+	"ContactName": "Tracy Tappin",
+	"Address": "Post Road",
 	"City": "Antigonish",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2G 2K5",
@@ -4095,8 +4082,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Natures Cove",
-	"Contact Name": "Jennifer",
-	"Street Address": "364 Bedford Highway",
+	"ContactName": "Jennifer",
+	"Address": "364 Bedford Highway",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3M 2L1",
@@ -4108,8 +4095,8 @@
 	"Brands": "Natures Cove"
 }, {
 	"Producer": "Neily's Greenhouse and Gardens",
-	"Contact Name": "Will Neily",
-	"Street Address": "10139 HWY 1",
+	"ContactName": "Will Neily",
+	"Address": "10139 HWY 1",
 	"City": "Paradise",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1R0",
@@ -4121,8 +4108,8 @@
 	"Brands": ""
 }, {
 	"Producer": "New Glasgow Farmers Market",
-	"Contact Name": "Natalie Gordon",
-	"Street Address": "Riverfront Dome, 115 Jury St",
+	"ContactName": "Natalie Gordon",
+	"Address": "Riverfront Dome, 115 Jury St",
 	"City": "New Glasgow",
 	"Province": "",
 	"Postal Code": "B2H 2N6",
@@ -4134,8 +4121,8 @@
 	"Brands": ""
 }, {
 	"Producer": "New Ross Country Farmers Market",
-	"Contact Name": "Rubia Hutt",
-	"Street Address": "Ross Farm Museum, 4568 Route 12",
+	"ContactName": "Rubia Hutt",
+	"Address": "Ross Farm Museum, 4568 Route 12",
 	"City": "New Ross",
 	"Province": "",
 	"Postal Code": "B0J 2M0",
@@ -4147,8 +4134,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Niche Nacs",
-	"Contact Name": "HayleyJ Warford",
-	"Street Address": "9 1/2 Heather St",
+	"ContactName": "HayleyJ Warford",
+	"Address": "9 1/2 Heather St",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3R 1M3",
@@ -4160,8 +4147,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Nictaux Farms",
-	"Contact Name": "Ivan Shilliday",
-	"Street Address": "8395 Highway 201 (Nictaux West)",
+	"ContactName": "Ivan Shilliday",
+	"Address": "8395 Highway 201 (Nictaux West)",
 	"City": "Middleton",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1P0",
@@ -4173,8 +4160,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Noggins Corner Farm at Alderney Landing",
-	"Contact Name": "",
-	"Street Address": "2 Ochterloney Street",
+	"ContactName": "",
+	"Address": "2 Ochterloney ",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2Y 3Z3",
@@ -4186,8 +4173,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Noggins Corner Farm Ltd.",
-	"Contact Name": "",
-	"Street Address": "10009 Hwy 1",
+	"ContactName": "",
+	"Address": "10009 Hwy 1",
 	"City": "Greenwich",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2R2",
@@ -4199,8 +4186,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Slice Soapworks",
-	"Contact Name": "Terri Yeomans",
-	"Street Address": "733 Bog Rd",
+	"ContactName": "Terri Yeomans",
+	"Address": "733 Bog Rd",
 	"City": "Falmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1L0",
@@ -4212,8 +4199,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Norbert's Good Food",
-	"Contact Name": "Norbert Kungl or Minga Mintz",
-	"Street Address": "1209 Marginal Rd",
+	"ContactName": "Norbert Kungl or Minga Mintz",
+	"Address": "1209 Marginal Rd",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3H 4P7",
@@ -4225,8 +4212,8 @@
 	"Brands": ""
 }, {
 	"Producer": "North Mountain Market",
-	"Contact Name": "Patrick Whiteway",
-	"Street Address": "3201 Long Point Road",
+	"ContactName": "Patrick Whiteway",
+	"Address": "3201 Long Point Road",
 	"City": "Harbourville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1E0",
@@ -4238,8 +4225,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Northumberland Lamb Marketing Co-op",
-	"Contact Name": "Michael Isenor",
-	"Street Address": "24 Brookside Branch Road",
+	"ContactName": "Michael Isenor",
+	"Address": "24 Brookside Branch Road",
 	"City": "Truro",
 	"Province": "",
 	"Postal Code": "B2N 5B1",
@@ -4251,8 +4238,8 @@
 	"Brands": "Northumberlamb"
 }, {
 	"Producer": "Not Your Mama's Kitchen",
-	"Contact Name": "",
-	"Street Address": "2 Water Street",
+	"ContactName": "",
+	"Address": "2 Water ",
 	"City": "Pictou",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1H0",
@@ -4264,8 +4251,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Nova Agri Inc.",
-	"Contact Name": "Andrea Palmer",
-	"Street Address": "1225 Middle Dyke Road",
+	"ContactName": "Andrea Palmer",
+	"Address": "1225 Middle Dyke Road",
 	"City": "Centreville",
 	"Province": "",
 	"Postal Code": "B0P 1J0",
@@ -4277,8 +4264,8 @@
 	"Brands": "Country Magic, Love Life"
 }, {
 	"Producer": "Nova Scotia Arctic Charr",
-	"Contact Name": "",
-	"Street Address": "15 Tower Rd.",
+	"ContactName": "",
+	"Address": "15 Tower Rd.",
 	"City": "Truro",
 	"Province": "",
 	"Postal Code": "B2N 5A9",
@@ -4290,8 +4277,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Nova Scotia Fisherman Extreme Skin Care ",
-	"Contact Name": "info@novascotiafisherman.com",
-	"Street Address": "15 Jones road",
+	"ContactName": "info@novascotiafisherman.com",
+	"Address": "15 Jones road",
 	"City": "New Minas",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4N 3N2",
@@ -4303,8 +4290,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Nova Scotia Organics",
-	"Contact Name": "Jeremy Hunter",
-	"Street Address": "2769 Lawrencetown Road",
+	"ContactName": "Jeremy Hunter",
+	"Address": "2769 Lawrencetown Road",
 	"City": "Lawrencetown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2Z 1L3",
@@ -4316,8 +4303,8 @@
 	"Brands": "Nova Scotia Organics"
 }, {
 	"Producer": "NSLC",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -4329,8 +4316,8 @@
 	"Brands": ""
 }, {
 	"Producer": "NSLC",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -4342,8 +4329,8 @@
 	"Brands": ""
 }, {
 	"Producer": "O'Neil Fisheries",
-	"Contact Name": "",
-	"Street Address": "144 Water Street",
+	"ContactName": "",
+	"Address": "144 Water ",
 	"City": "Digby",
 	"Province": "",
 	"Postal Code": "B0V 1A0",
@@ -4355,8 +4342,8 @@
 	"Brands": "Royal Fundy"
 }, {
 	"Producer": "O.H. Armstrong Ltd.",
-	"Contact Name": "Order Desk - 1-800-661-6331.",
-	"Street Address": "1478 Park Road",
+	"ContactName": "Order Desk - 1-800-661-6331.",
+	"Address": "1478 Park Road",
 	"City": "Kingston",
 	"Province": "",
 	"Postal Code": "B0P 1R0",
@@ -4368,8 +4355,8 @@
 	"Brands": "Armstrong"
 }, {
 	"Producer": "Oak Manor Farms",
-	"Contact Name": "Jamie Cornetta",
-	"Street Address": "5094 Hwy 215",
+	"ContactName": "Jamie Cornetta",
+	"Address": "5094 Hwy 215",
 	"City": "Summerville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2K0",
@@ -4381,8 +4368,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Oakview Farm",
-	"Contact Name": "Jennifer/Kevin Graham",
-	"Street Address": "7 Longspell Rd.",
+	"ContactName": "Jennifer/Kevin Graham",
+	"Address": "7 Longspell Rd.",
 	"City": "Kingsport",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1H0",
@@ -4394,8 +4381,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Old Miller Trout Farm",
-	"Contact Name": "Stinson",
-	"Street Address": "408 Doyles Rd",
+	"ContactName": "Stinson",
+	"Address": "408 Doyles Rd",
 	"City": "Margaree Forks",
 	"Province": "",
 	"Postal Code": "B0E 2A0",
@@ -4407,8 +4394,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Organic Earth Market ",
-	"Contact Name": "",
-	"Street Address": "6487 Quinpool Rd",
+	"ContactName": "",
+	"Address": "6487 Quinpool Rd",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3L 1B2",
@@ -4420,8 +4407,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Organic Earth Market",
-	"Contact Name": "",
-	"Street Address": "6487 Quinpool Road",
+	"ContactName": "",
+	"Address": "6487 Quinpool Road",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3L 1B2",
@@ -4433,8 +4420,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ouest-Ville Perennials",
-	"Contact Name": "",
-	"Street Address": "1250 Argyle Sound Road",
+	"ContactName": "",
+	"Address": "1250 Argyle Sound Road",
 	"City": "West Pubnico",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0W 3S0",
@@ -4446,8 +4433,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Oxford Berry Farm",
-	"Contact Name": "Kent and Cindy Thompson",
-	"Street Address": "115 KNOL DRIVE",
+	"ContactName": "Kent and Cindy Thompson",
+	"Address": "115 KNOL DRIVE",
 	"City": "Oxford",
 	"Province": "",
 	"Postal Code": "B0M 1P0",
@@ -4459,8 +4446,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Oxford Frozen Foods",
-	"Contact Name": "",
-	"Street Address": "4881 Main Street",
+	"ContactName": "",
+	"Address": "4881 Main ",
 	"City": "Oxford",
 	"Province": "",
 	"Postal Code": "B0M 1P0",
@@ -4472,8 +4459,8 @@
 	"Brands": ""
 }, {
 	"Producer": "P'lovers: The Environmental Store (Halifax) ",
-	"Contact Name": "Shelby Lendrum ",
-	"Street Address": "1443 South Park St.",
+	"ContactName": "Shelby Lendrum ",
+	"Address": "1443 South Park St.",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 2L1",
@@ -4485,8 +4472,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Paddy's Pub and Rosie's Restaurant",
-	"Contact Name": "John Fitzgerald",
-	"Street Address": "42 Aberdeen Street",
+	"ContactName": "John Fitzgerald",
+	"Address": "42 Aberdeen ",
 	"City": "Kentville",
 	"Province": "",
 	"Postal Code": "B4N 2N1",
@@ -4498,8 +4485,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Parker Farm",
-	"Contact Name": "Lisa Redden",
-	"Street Address": "1121 Woodville Rd.",
+	"ContactName": "Lisa Redden",
+	"Address": "1121 Woodville Rd.",
 	"City": "Ashdale, Hants County",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2A0",
@@ -4511,8 +4498,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Partners For Care Farmers Market at the QEII",
-	"Contact Name": "Karen Mills",
-	"Street Address": "Terrace of VG Centennial Building, 1276 South Park St",
+	"ContactName": "Karen Mills",
+	"Address": "Terrace of VG Centennial Building, 1276 South Park St",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3H 2Y9",
@@ -4524,8 +4511,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Peach Pit Farm Market",
-	"Contact Name": "",
-	"Street Address": "2830 Hwy #221",
+	"ContactName": "",
+	"Address": "2830 Hwy #221",
 	"City": "Dempsey's Corner",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1C0",
@@ -4537,8 +4524,8 @@
 	"Brands": ""
 }, {
 	"Producer": "PepperHead Inc.",
-	"Contact Name": "Jason Grant",
-	"Street Address": "9 Belgrave Terrace",
+	"ContactName": "Jason Grant",
+	"Address": "9 Belgrave Terrace",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 2G3",
@@ -4550,8 +4537,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Pete's Fine Foods, Halifax",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -4563,8 +4550,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Pete's Frootique (Halifax) ",
-	"Contact Name": "Terry Robichaud",
-	"Street Address": "1515 Dresden Row",
+	"ContactName": "Terry Robichaud",
+	"Address": "1515 Dresden Row",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 4B1",
@@ -4576,8 +4563,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Petite Riviere Winery",
-	"Contact Name": "Carol Slack-Wamboldt",
-	"Street Address": "1300 Italy Cross Road",
+	"ContactName": "Carol Slack-Wamboldt",
+	"Address": "1300 Italy Cross Road",
 	"City": "Crousetown",
 	"Province": "",
 	"Postal Code": "B0J 1V0",
@@ -4589,8 +4576,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Pie r Squared",
-	"Contact Name": "Heather Lunan",
-	"Street Address": "35 Minas View Drive",
+	"ContactName": "Heather Lunan",
+	"Address": "35 Minas View Drive",
 	"City": "Wolfville",
 	"Province": "",
 	"Postal Code": "B4P 2H8",
@@ -4602,8 +4589,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Pinnacle Farms",
-	"Contact Name": "",
-	"Street Address": "7729 Route 321",
+	"ContactName": "",
+	"Address": "7729 Route 321",
 	"City": "Roslin",
 	"Province": "",
 	"Postal Code": "B0K 1K0",
@@ -4615,8 +4602,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Piping Hot Bake Shop",
-	"Contact Name": "Teil Korneski",
-	"Street Address": "321 Main St",
+	"ContactName": "Teil Korneski",
+	"Address": "321 Main St",
 	"City": "Liverpool",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0T 1K0",
@@ -4628,8 +4615,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Plan B",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -4641,8 +4628,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Planters Ridge Winery",
-	"Contact Name": "Planters Ridge",
-	"Street Address": "1441 Church St",
+	"ContactName": "Planters Ridge",
+	"Address": "1441 Church St",
 	"City": "Port Williams",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1T0",
@@ -4654,8 +4641,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Pleasant Valley Pure Springs Limited",
-	"Contact Name": "Mike Walker",
-	"Street Address": "345 Hwy #1 Dayton",
+	"ContactName": "Mike Walker",
+	"Address": "345 Hwy #1 Dayton",
 	"City": "Yarmouth",
 	"Province": "",
 	"Postal Code": "B5A 4A5",
@@ -4667,8 +4654,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Porter's Farm Market",
-	"Contact Name": "Mike or Eric Porter",
-	"Street Address": "688 Belcher Street",
+	"ContactName": "Mike or Eric Porter",
+	"Address": "688 Belcher ",
 	"City": "Port Williams",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1T0",
@@ -4680,8 +4667,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Propeller Brewing Co.",
-	"Contact Name": "",
-	"Street Address": "2015 Gottingen Street",
+	"ContactName": "",
+	"Address": "2015 Gottingen ",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3L 1N9",
@@ -4693,8 +4680,8 @@
 	"Brands": "Extra Special Bitter, Porter, Honey Wheat Beer, Pale Ale, Root Beer, Ginger Beer, Orange Soda, Vanilla Cream Soda"
 }, {
 	"Producer": "Pugwash Farmers Market",
-	"Contact Name": "Jennifer Houghtaling",
-	"Street Address": "102224 Durham Street",
+	"ContactName": "Jennifer Houghtaling",
+	"Address": "102224 Durham ",
 	"City": "Pugwash",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1L0",
@@ -4706,8 +4693,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Pure Product Agent",
-	"Contact Name": "renerobichaud@eastlink.ca",
-	"Street Address": "105 Baker Drive Unit 104",
+	"ContactName": "renerobichaud@eastlink.ca",
+	"Address": "105 Baker Drive Unit 104",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -4719,8 +4706,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Quinn's Strawberry U-Pick",
-	"Contact Name": "",
-	"Street Address": "MacIntosh Road",
+	"ContactName": "",
+	"Address": "MacIntosh Road",
 	"City": "Millville",
 	"Province": "",
 	"Postal Code": "",
@@ -4732,8 +4719,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ran-Cher Acres",
-	"Contact Name": "Randy/Cheryl Hiltz, Owners",
-	"Street Address": "744 Canaan Road",
+	"ContactName": "Randy/Cheryl Hiltz, Owners",
+	"Address": "744 Canaan Road",
 	"City": "Aylesford",
 	"Province": "",
 	"Postal Code": "B0P 1C0",
@@ -4745,8 +4732,8 @@
 	"Brands": "Ran-Cher Acres"
 }, {
 	"Producer": "Rapure Acadienne Ltd.",
-	"Contact Name": "Curtis Gaudet",
-	"Street Address": "RR #1, Civic #1443 Church Point, PO Box 233",
+	"ContactName": "Curtis Gaudet",
+	"Address": "RR #1, Civic #1443 Church Point, PO Box 233",
 	"City": "Church Point",
 	"Province": "",
 	"Postal Code": "B0W 1M0",
@@ -4758,8 +4745,8 @@
 	"Brands": "Rapure Acadienne Ltd."
 }, {
 	"Producer": "Red Barn Market, Tantallon, NS",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -4771,8 +4758,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Red Mountain Farm",
-	"Contact Name": "",
-	"Street Address": "466 East Montrose Rd. RR1",
+	"ContactName": "",
+	"Address": "466 East Montrose Rd. RR1",
 	"City": "Bass River",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0M 1B0",
@@ -4784,8 +4771,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Reimer Gardens",
-	"Contact Name": "Gerald Reimer",
-	"Street Address": "2121 Black Rock Road",
+	"ContactName": "Gerald Reimer",
+	"Address": "2121 Black Rock Road",
 	"City": "Waterville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1V0",
@@ -4797,8 +4784,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rendell's Farm",
-	"Contact Name": "",
-	"Street Address": "95 Point Aconi Rd",
+	"ContactName": "",
+	"Address": "95 Point Aconi Rd",
 	"City": "Englishtown",
 	"Province": "",
 	"Postal Code": "B0C 1B0",
@@ -4810,8 +4797,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rhubarb Restaurant",
-	"Contact Name": "",
-	"Street Address": "8650 Peggys Cove Road",
+	"ContactName": "",
+	"Address": "8650 Peggys Cove Road",
 	"City": "Indian Harbour",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3Z 3P4",
@@ -4823,8 +4810,8 @@
 	"Brands": ""
 }, {
 	"Producer": "River Breeze Farm and Corn Maze",
-	"Contact Name": "",
-	"Street Address": "660 Onslow Road",
+	"ContactName": "",
+	"Address": "660 Onslow Road",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 5B3",
@@ -4836,8 +4823,8 @@
 	"Brands": ""
 }, {
 	"Producer": "River John Farmers Market",
-	"Contact Name": "",
-	"Street Address": "1389 Louisville Rd.",
+	"ContactName": "",
+	"Address": "1389 Louisville Rd.",
 	"City": "River John",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1N0",
@@ -4849,8 +4836,8 @@
 	"Brands": ""
 }, {
 	"Producer": "River View Herbs",
-	"Contact Name": "Jim Bruce",
-	"Street Address": "8907 Hwy 215",
+	"ContactName": "Jim Bruce",
+	"Address": "8907 Hwy 215",
 	"City": "Maitland",
 	"Province": "",
 	"Postal Code": "B0N 1T0",
@@ -4862,8 +4849,8 @@
 	"Brands": "River View Herbs"
 }, {
 	"Producer": "Riverview Produce Farms",
-	"Contact Name": "",
-	"Street Address": "157 Wilson Road",
+	"ContactName": "",
+	"Address": "157 Wilson Road",
 	"City": "Chester",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 1J0",
@@ -4875,8 +4862,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Robertson's Candy",
-	"Contact Name": "Paul Furlong, Leisa Furlong",
-	"Street Address": "43 Charles Street",
+	"ContactName": "Paul Furlong, Leisa Furlong",
+	"Address": "43 Charles ",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 1X2",
@@ -4888,8 +4875,8 @@
 	"Brands": "Robertson's Candy, Signature Series"
 }, {
 	"Producer": "Robichaud's Mincemeat",
-	"Contact Name": "Delbert Robichaud, Rick Robichaud",
-	"Street Address": "113 Main Street",
+	"ContactName": "Delbert Robichaud, Rick Robichaud",
+	"Address": "113 Main ",
 	"City": "Meteghan",
 	"Province": "",
 	"Postal Code": "B0W 2J0",
@@ -4901,8 +4888,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rockhead Wine & Beer Market",
-	"Contact Name": "",
-	"Street Address": "2651 Windsor Street",
+	"ContactName": "",
+	"Address": "2651 Windsor ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 5C7",
@@ -4914,8 +4901,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rosemary's Chocolates",
-	"Contact Name": "",
-	"Street Address": "1535 Dresden Row",
+	"ContactName": "",
+	"Address": "1535 Dresden Row",
 	"City": "Halifax",
 	"Province": "",
 	"Postal Code": "B3K 4P6",
@@ -4927,8 +4914,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ross Farm Museum Pedlars Shop",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -4940,8 +4927,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Rousseau Chocolatier",
-	"Contact Name": "Nathalie Morin",
-	"Street Address": "1277 Hollis Street",
+	"ContactName": "Nathalie Morin",
+	"Address": "1277 Hollis ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 1T7",
@@ -4953,8 +4940,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sable River Country Market",
-	"Contact Name": "Cindy Embree",
-	"Street Address": "1552 Hwy 103",
+	"ContactName": "Cindy Embree",
+	"Address": "1552 Hwy 103",
 	"City": "Sable River",
 	"Province": "",
 	"Postal Code": "B0T 1V0",
@@ -4966,8 +4953,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sainte-Famille Wines",
-	"Contact Name": "Ellen Hart",
-	"Street Address": "11 Dudley Park Lane",
+	"ContactName": "Ellen Hart",
+	"Address": "11 Dudley Park Lane",
 	"City": "Falmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1L0",
@@ -4979,8 +4966,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Salmontail River Farm",
-	"Contact Name": "Helen and Neil Jarvis",
-	"Street Address": "161, Legge Rd,",
+	"ContactName": "Helen and Neil Jarvis",
+	"Address": "161, Legge Rd,",
 	"City": "Kentville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4N 3V8",
@@ -4992,8 +4979,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Salty Rose's Local Art & Craft",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5005,8 +4992,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sam's Pizza",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5018,8 +5005,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sauceworks Limited",
-	"Contact Name": "Scott MacCulloch",
-	"Street Address": "10 Akerley Blvd, Unit 63",
+	"ContactName": "Scott MacCulloch",
+	"Address": "10 Akerley Blvd, Unit 63",
 	"City": "Dartmouth",
 	"Province": "",
 	"Postal Code": "B3B 1J4",
@@ -5031,8 +5018,8 @@
 	"Brands": "Red Fox Sauce"
 }, {
 	"Producer": "Scenic Valley Farm",
-	"Contact Name": "Peter & Elizabeth LeBlanc",
-	"Street Address": "2066 East Margaree Rd.",
+	"ContactName": "Peter & Elizabeth LeBlanc",
+	"Address": "2066 East Margaree Rd.",
 	"City": "Margaree",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 2B0",
@@ -5044,8 +5031,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Schoolhouse Gluten - Free Gourmet",
-	"Contact Name": "Jennifer Laughlin",
-	"Street Address": "7014 Highway #3",
+	"ContactName": "Jennifer Laughlin",
+	"Address": "7014 Highway #3",
 	"City": "Martins Point",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2E0",
@@ -5057,8 +5044,8 @@
 	"Brands": "Schoolhouse"
 }, {
 	"Producer": "Scotia Poultry Farm Ltd.",
-	"Contact Name": "Jill Thomas",
-	"Street Address": "93 Bissett Lake Road",
+	"ContactName": "Jill Thomas",
+	"Address": "93 Bissett Lake Road",
 	"City": "Cole Harbour",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2V 2T3",
@@ -5070,8 +5057,8 @@
 	"Brands": "Scotia Poultry Farm, Nova Egg"
 }, {
 	"Producer": "Scotian Gold Cooperative Limited",
-	"Contact Name": "David Parrish",
-	"Street Address": "2900 Lovett Road",
+	"ContactName": "David Parrish",
+	"Address": "2900 Lovett Road",
 	"City": "Coldbrook",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4R 1A6",
@@ -5083,8 +5070,8 @@
 	"Brands": "Scotian Gold"
 }, {
 	"Producer": "Scotsburn Ice Cream Company",
-	"Contact Name": "",
-	"Street Address": "332 Willow St",
+	"ContactName": "",
+	"Address": "332 Willow St",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 5A5",
@@ -5096,8 +5083,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sea Fever Rum",
-	"Contact Name": "",
-	"Street Address": "80 Main Street",
+	"ContactName": "",
+	"Address": "80 Main ",
 	"City": "Guysborough",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1N0",
@@ -5109,8 +5096,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Shani's Farm",
-	"Contact Name": "Cheryl Williams",
-	"Street Address": "668 Hwy #236",
+	"ContactName": "Cheryl Williams",
+	"Address": "668 Hwy #236",
 	"City": "Scotch Village",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2A0",
@@ -5122,8 +5109,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Shelburne Farmers Market",
-	"Contact Name": "",
-	"Street Address": "20 Maiden Lane",
+	"ContactName": "",
+	"Address": "20 Maiden Lane",
 	"City": "Shelburne",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0T 1W0",
@@ -5135,8 +5122,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Shelburne sOBEYS",
-	"Contact Name": "",
-	"Street Address": "115  King St",
+	"ContactName": "",
+	"Address": "115  King St",
 	"City": "Shelburne",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0T 1W0",
@@ -5148,8 +5135,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Shepherd Family Christmas Trees",
-	"Contact Name": "Rob Shepherd",
-	"Street Address": "3750 Black Rock Rd. Black Rock N.S",
+	"ContactName": "Rob Shepherd",
+	"Address": "3750 Black Rock Rd. Black Rock N.S",
 	"City": "Black Rock",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P1V0",
@@ -5161,8 +5148,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Shinimicas Honey & Herb Farm",
-	"Contact Name": "Matthew Aldred",
-	"Street Address": "71 Shinimicas Road",
+	"ContactName": "Matthew Aldred",
+	"Address": "71 Shinimicas Road",
 	"City": "Amherst",
 	"Province": "",
 	"Postal Code": "B4H 3Y2",
@@ -5174,8 +5161,8 @@
 	"Brands": ""
 }, {
 	"Producer": "ShipBuilders Cider Limited",
-	"Contact Name": "",
-	"Street Address": "1559 Brunswick Street",
+	"ContactName": "",
+	"Address": "1559 Brunswick ",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3J 2G1",
@@ -5187,8 +5174,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Shore Things, Fisherman's Cove, Eastern Passage",
-	"Contact Name": "",
-	"Street Address": "8 Wharf Road",
+	"ContactName": "",
+	"Address": "8 Wharf Road",
 	"City": "Eastern Passage",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -5200,8 +5187,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Simply Uplifting Nutrition (Stewiacke) ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5213,8 +5200,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sister's Alternative Stuff ",
-	"Contact Name": "",
-	"Street Address": "6 Sherwood Drive",
+	"ContactName": "",
+	"Address": "6 Sherwood Drive",
 	"City": "Wolfville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 2J9",
@@ -5226,8 +5213,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Snowy River Farms",
-	"Contact Name": "Amy and David Hill",
-	"Street Address": "15439 HWY 224",
+	"ContactName": "Amy and David Hill",
+	"Address": "15439 HWY 224",
 	"City": "Cooks Brook",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2H0",
@@ -5239,8 +5226,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sobeys (Natural Aisle) ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5252,8 +5239,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sociables Pub and Eatery",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5265,8 +5252,8 @@
 	"Brands": ""
 }, {
 	"Producer": "South Shore Bulk & Natural Food (Bridgewater) ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5278,8 +5265,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Spurr Brothers Farms Ltd.",
-	"Contact Name": "Gordon Spurr, Bill Spurr",
-	"Street Address": "144 Bridge Street",
+	"ContactName": "Gordon Spurr, Bill Spurr",
+	"Address": "144 Bridge ",
 	"City": "Kingston",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1R0",
@@ -5291,8 +5278,8 @@
 	"Brands": "Spurr Bros."
 }, {
 	"Producer": "St. Mary's River smokehouses",
-	"Contact Name": "",
-	"Street Address": "P O Box 70 8000 Highway #7",
+	"ContactName": "",
+	"Address": "P O Box 70 8000 Highway #7",
 	"City": "Sherbrooke",
 	"Province": "",
 	"Postal Code": "B0J 3C0",
@@ -5304,8 +5291,8 @@
 	"Brands": "St. Mary's RIver Smokehouse"
 }, {
 	"Producer": "Staples Bridgewater",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5317,8 +5304,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Starr's Point Beef",
-	"Contact Name": "David Acton",
-	"Street Address": "1724 Starr's Point Road P.O. Box 186",
+	"ContactName": "David Acton",
+	"Address": "1724 Starr's Point Road P.O. Box 186",
 	"City": "Port Williams",
 	"Province": "",
 	"Postal Code": "B0P 1T0",
@@ -5330,8 +5317,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Steep Hill Solutions Inc.",
-	"Contact Name": "Brent Larson",
-	"Street Address": "PO Box 52",
+	"ContactName": "Brent Larson",
+	"Address": "PO Box 52",
 	"City": "Lower Sackville",
 	"Province": "",
 	"Postal Code": "B4C 2S8",
@@ -5343,8 +5330,8 @@
 	"Brands": "omega crunch"
 }, {
 	"Producer": "Still Fired Distilleries",
-	"Contact Name": "Andrew Cameron",
-	"Street Address": "9543 Highway 8",
+	"ContactName": "Andrew Cameron",
+	"Address": "9543 Highway 8",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -5356,8 +5343,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Stirling Fruit Farms (Bible Hill)",
-	"Contact Name": "Hal Stirling",
-	"Street Address": "325 Main Street",
+	"ContactName": "Hal Stirling",
+	"Address": "325 Main ",
 	"City": "Bible Hill",
 	"Province": "",
 	"Postal Code": "B2N 4H4",
@@ -5369,8 +5356,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Stirling Fruit Farms (Blue Acres)",
-	"Contact Name": "Hal Stirling",
-	"Street Address": "339 Bridge Avenue",
+	"ContactName": "Hal Stirling",
+	"Address": "339 Bridge Avenue",
 	"City": "Blue Acres",
 	"Province": "",
 	"Postal Code": "B2H 5C5",
@@ -5382,8 +5369,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Stirling Fruit Farms (Wolfville)",
-	"Contact Name": "Hal Stirling",
-	"Street Address": "10317 Hwy 1",
+	"ContactName": "Hal Stirling",
+	"Address": "10317 Hwy 1",
 	"City": "Wolfville",
 	"Province": "",
 	"Postal Code": "B4P 2R2",
@@ -5395,8 +5382,8 @@
 	"Brands": "Stirling Fruit Farms, Agri-Growers"
 }, {
 	"Producer": "Stokdijk Greenhouses Ltd",
-	"Contact Name": "Kimberly Stokdijk",
-	"Street Address": "1924 HWY 236",
+	"ContactName": "Kimberly Stokdijk",
+	"Address": "1924 HWY 236",
 	"City": "Beaver Brook",
 	"Province": "Nova Scotia",
 	"Postal Code": "B6L1H3",
@@ -5408,8 +5395,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Stone Hearth Bakery",
-	"Contact Name": "Scott Butler",
-	"Street Address": "6021 Young St., Suite 103",
+	"ContactName": "Scott Butler",
+	"Address": "6021 Young St., Suite 103",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 2A1",
@@ -5421,8 +5408,8 @@
 	"Brands": "Stone Hearth"
 }, {
 	"Producer": "Stone's Pharmasave Baddeck",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5434,8 +5421,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Storehouse",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5447,8 +5434,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sugar Moon Farm",
-	"Contact Name": "Quita Gray",
-	"Street Address": "221 Alex MacDonald Road, RR#5",
+	"ContactName": "Quita Gray",
+	"Address": "221 Alex MacDonald Road, RR#5",
 	"City": "Earltown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -5460,8 +5447,8 @@
 	"Brands": "Sugar Moon Farm"
 }, {
 	"Producer": "Sunflower Natural Food Market (Antigonish) ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5473,8 +5460,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sunset Acres",
-	"Contact Name": "",
-	"Street Address": "Hwy #10 Springfield",
+	"ContactName": "",
+	"Address": "Hwy #10 Springfield",
 	"City": "Annapolis County",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1H0",
@@ -5486,8 +5473,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Sunspun Natural Foods, Truro",
-	"Contact Name": "",
-	"Street Address": "583 Prince Street",
+	"ContactName": "",
+	"Address": "583 Prince ",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 1G2",
@@ -5499,8 +5486,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Super Natural Health",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5512,8 +5499,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Superstore",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5525,8 +5512,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Superstore (Natural Aisle) ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5538,8 +5525,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Suprima Farms Ltd.",
-	"Contact Name": "Richard Hennigar",
-	"Street Address": "1388 Middle Dyke Rd, RR #5",
+	"ContactName": "Richard Hennigar",
+	"Address": "1388 Middle Dyke Rd, RR #5",
 	"City": "Canning",
 	"Province": "",
 	"Postal Code": "B0P 1H0",
@@ -5551,8 +5538,8 @@
 	"Brands": "Apple Shivers"
 }, {
 	"Producer": "Sweet Bres Boulangerie",
-	"Contact Name": "Shelley Raniowski",
-	"Street Address": "4 Angies Walk",
+	"ContactName": "Shelley Raniowski",
+	"Address": "4 Angies Walk",
 	"City": "Milford Station",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 1Y0",
@@ -5564,8 +5551,8 @@
 	"Brands": "Bakery"
 }, {
 	"Producer": "Sweet Spot Chocolate Shop",
-	"Contact Name": "Nancy and Greg McTiernan",
-	"Street Address": "601 Hwy #2",
+	"ContactName": "Nancy and Greg McTiernan",
+	"Address": "601 Hwy #2",
 	"City": "Elmsdale",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2S 1A8",
@@ -5577,8 +5564,8 @@
 	"Brands": ""
 }, {
 	"Producer": "T&W Saskatoon Berry Farm",
-	"Contact Name": "",
-	"Street Address": "1994 Lily Lake Road, RR 2",
+	"ContactName": "",
+	"Address": "1994 Lily Lake Road, RR 2",
 	"City": "Middleton",
 	"Province": "",
 	"Postal Code": "B0S 1P0",
@@ -5590,8 +5577,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tall Ships Trading",
-	"Contact Name": "Allan Rodger, Chris MacDonald",
-	"Street Address": "1712 Waverley Road",
+	"ContactName": "Allan Rodger, Chris MacDonald",
+	"Address": "1712 Waverley Road",
 	"City": "Waverley",
 	"Province": "",
 	"Postal Code": "B2R 1Y3",
@@ -5603,8 +5590,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tangled Garden",
-	"Contact Name": "Beverly McClare",
-	"Street Address": "11827 Hwy 1",
+	"ContactName": "Beverly McClare",
+	"Address": "11827 Hwy 1",
 	"City": "Grand Pre",
 	"Province": "",
 	"Postal Code": "B0P 1M0",
@@ -5616,8 +5603,8 @@
 	"Brands": "Tangled Garden"
 }, {
 	"Producer": "Tantallon Village Farmers' Market",
-	"Contact Name": "Market Manager: Ashley Marlin",
-	"Street Address": "Redmond's Shopping Plaza, 5209 St Margaret's Bay Road",
+	"ContactName": "Market Manager: Ashley Marlin",
+	"Address": "Redmond's Shopping Plaza, 5209 St Margaret's Bay Road",
 	"City": "Upper Tantallon",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3Z1E3",
@@ -5629,8 +5616,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Taproot Farms",
-	"Contact Name": "Patricia Bishop",
-	"Street Address": "1736 Church Street",
+	"ContactName": "Patricia Bishop",
+	"Address": "1736 Church ",
 	"City": "Port Williams",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1T0",
@@ -5642,8 +5629,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tatamagouche Farmers' Market",
-	"Contact Name": "",
-	"Street Address": "Tatamagouche Creamery Building, 41 Creamery Road",
+	"ContactName": "",
+	"Address": "Tatamagouche Creamery Building, 41 Creamery Road",
 	"City": "Tatamagouche",
 	"Province": "",
 	"Postal Code": "BOK IVO",
@@ -5655,8 +5642,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tatamagouche Shell",
-	"Contact Name": "",
-	"Street Address": "1744 Hwy 6",
+	"ContactName": "",
+	"Address": "1744 Hwy 6",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -5668,8 +5655,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Terra Beata Farms",
-	"Contact Name": "Evelyn Ernst",
-	"Street Address": "161 Monk Point Road",
+	"ContactName": "Evelyn Ernst",
+	"Address": "161 Monk Point Road",
 	"City": "Lunenburg",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 2C0",
@@ -5681,8 +5668,8 @@
 	"Brands": "Terra Beata, Cranberry Kitchen"
 }, {
 	"Producer": "Terries Berries/Terridi Farms",
-	"Contact Name": "",
-	"Street Address": "5037 Highway #2",
+	"ContactName": "",
+	"Address": "5037 Highway #2",
 	"City": "Colchester County",
 	"Province": "",
 	"Postal Code": "B0M 1B0",
@@ -5694,8 +5681,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Terry Corkum Farms",
-	"Contact Name": "",
-	"Street Address": "1176 White Rock Road",
+	"ContactName": "",
+	"Address": "1176 White Rock Road",
 	"City": "Wolfville",
 	"Province": "",
 	"Postal Code": "B4P 2R2",
@@ -5707,8 +5694,8 @@
 	"Brands": ""
 }, {
 	"Producer": "That Dutchman's Farm",
-	"Contact Name": "Willem & Maja van den Hoek",
-	"Street Address": "112 Brown Road",
+	"ContactName": "Willem & Maja van den Hoek",
+	"Address": "112 Brown Road",
 	"City": "Upper Economy",
 	"Province": "",
 	"Postal Code": "B0M 1J0",
@@ -5720,8 +5707,8 @@
 	"Brands": "That Dutchman\\'s Cheese Farm"
 }, {
 	"Producer": "The 100% Store",
-	"Contact Name": "reachAbility",
-	"Street Address": "3845 Joseph Howe Drive",
+	"ContactName": "reachAbility",
+	"Address": "3845 Joseph Howe Drive",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3L4H9",
@@ -5733,8 +5720,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Airstream Cafe (Food Truck)",
-	"Contact Name": "Rita Landgraf",
-	"Street Address": "125 King Street",
+	"ContactName": "Rita Landgraf",
+	"Address": "125 King ",
 	"City": "Bridgewater",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4V1A3",
@@ -5746,8 +5733,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Bayside Garden Centre",
-	"Contact Name": "",
-	"Street Address": "9657 Trans Canada Hwy",
+	"ContactName": "",
+	"Address": "9657 Trans Canada Hwy",
 	"City": "Whycocomagh",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 3M0",
@@ -5759,8 +5746,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Bridgewater Farmers' Market",
-	"Contact Name": "",
-	"Street Address": "685 King Street",
+	"ContactName": "",
+	"Address": "685 King ",
 	"City": "Bridgewater",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -5772,8 +5759,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Cake Lady",
-	"Contact Name": "Ingrid Dunsworth",
-	"Street Address": "188 Southwest Cove",
+	"ContactName": "Ingrid Dunsworth",
+	"Address": "188 Southwest Cove",
 	"City": "Hubbards",
 	"Province": "",
 	"Postal Code": "B0J 1T0",
@@ -5785,8 +5772,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Cider House Co. Ltd.",
-	"Contact Name": "Hanspeter Stutz",
-	"Street Address": "11611 Hwy. 1",
+	"ContactName": "Hanspeter Stutz",
+	"Address": "11611 Hwy. 1",
 	"City": "Grand Pre",
 	"Province": "",
 	"Postal Code": "B0P 1M0",
@@ -5798,8 +5785,8 @@
 	"Brands": "Stutz"
 }, {
 	"Producer": "The Farm Gate",
-	"Contact Name": "",
-	"Street Address": "7693 Hwy #2",
+	"ContactName": "",
+	"Address": "7693 Hwy #2",
 	"City": "Great Village",
 	"Province": "",
 	"Postal Code": "B0N 1L0",
@@ -5811,8 +5798,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Garrison House",
-	"Contact Name": "",
-	"Street Address": "350 St George St",
+	"ContactName": "",
+	"Address": "350 St George St",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -5824,8 +5811,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Grainery Food Coop",
-	"Contact Name": "P. Brennan-Alpert",
-	"Street Address": "2385 Agricola St.",
+	"ContactName": "P. Brennan-Alpert",
+	"Address": "2385 Agricola St.",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3K 4B8",
@@ -5837,8 +5824,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Hive Market",
-	"Contact Name": "Giselle Bryan",
-	"Street Address": "506 Tower Road",
+	"ContactName": "Giselle Bryan",
+	"Address": "506 Tower Road",
 	"City": "Halifax",
 	"Province": "Nova Scotia",
 	"Postal Code": "B3H 2X3",
@@ -5850,8 +5837,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Little Bee Farm",
-	"Contact Name": "Ben Little or Amanda Cole",
-	"Street Address": "17 Clipper Drive",
+	"ContactName": "Ben Little or Amanda Cole",
+	"Address": "17 Clipper Drive",
 	"City": "Bridgewater",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4V 3S7",
@@ -5863,8 +5850,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Mahone Bay Market , Sunday.",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5876,8 +5863,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Nook & Cranny",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -5889,8 +5876,8 @@
 	"Brands": ""
 }, {
 	"Producer": "VanOostrum Farms",
-	"Contact Name": "",
-	"Street Address": "RR#2 Berwick",
+	"ContactName": "",
+	"Address": "RR#2 Berwick",
 	"City": "Berwick",
 	"Province": "",
 	"Postal Code": "B0P 1E0",
@@ -5902,8 +5889,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Pork Shop",
-	"Contact Name": "",
-	"Street Address": "2578 Westville Road",
+	"ContactName": "",
+	"Address": "2578 Westville Road",
 	"City": "New Glasgow",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2H 5C6",
@@ -5915,8 +5902,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Pumpkin Patch Family Farm Market",
-	"Contact Name": "Gena Rafuse",
-	"Street Address": "4148 Highway 3",
+	"ContactName": "Gena Rafuse",
+	"Address": "4148 Highway 3",
 	"City": "Chester",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 1C0",
@@ -5928,8 +5915,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Trainyard General Store",
-	"Contact Name": "Jason MacDonald",
-	"Street Address": "53 Portland Street",
+	"ContactName": "Jason MacDonald",
+	"Address": "53 Portland ",
 	"City": "Dartmouth",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2Y1H1",
@@ -5941,8 +5928,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Vegetorium Country Farm Market",
-	"Contact Name": "Jason or Maria Simpson",
-	"Street Address": "2900 Hwy #2",
+	"ContactName": "Jason or Maria Simpson",
+	"Address": "2900 Hwy #2",
 	"City": "Fall River",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2T 1W4",
@@ -5954,8 +5941,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The Village Emporium",
-	"Contact Name": "Angela Kitching & Pat McNamee",
-	"Street Address": "11 Pleasant Street",
+	"ContactName": "Angela Kitching & Pat McNamee",
+	"Address": "11 Pleasant ",
 	"City": "Chester",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0J 1J0",
@@ -5967,8 +5954,8 @@
 	"Brands": ""
 }, {
 	"Producer": "The White Point Beach Resort Gift Shop",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -5980,8 +5967,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Thompson's Berries",
-	"Contact Name": "Lawson Thompson, Bessie Thompson",
-	"Street Address": "5371 Wentorth Collingwood Road, RR #2 Westchester",
+	"ContactName": "Lawson Thompson, Bessie Thompson",
+	"Address": "5371 Wentorth Collingwood Road, RR #2 Westchester",
 	"City": "Cumberland",
 	"Province": "",
 	"Postal Code": "B0M 2A0",
@@ -5993,8 +5980,8 @@
 	"Brands": "Thompson's Berries"
 }, {
 	"Producer": "Thousand Hills Farm",
-	"Contact Name": "Kevin Hamilton",
-	"Street Address": "375 Highway 340",
+	"ContactName": "Kevin Hamilton",
+	"Address": "375 Highway 340",
 	"City": "Hebron",
 	"Province": "Nova Scotia",
 	"Postal Code": "B5A 5N1",
@@ -6006,8 +5993,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Thyme for Ewe Farm",
-	"Contact Name": "Tim or Estelle",
-	"Street Address": "784 King Grove Road",
+	"ContactName": "Tim or Estelle",
+	"Address": "784 King Grove Road",
 	"City": "Millville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B1Y 2E9",
@@ -6019,8 +6006,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tideview Cider",
-	"Contact Name": "",
-	"Street Address": "10009 Hwy 1",
+	"ContactName": "",
+	"Address": "10009 Hwy 1",
 	"City": "Greenwich",
 	"Province": "",
 	"Postal Code": "B4P 2R2",
@@ -6032,8 +6019,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tipsy Toad Grove Farm / Tipsy Toad Soaps",
-	"Contact Name": "Sue Earle",
-	"Street Address": "579 Messenger Rd.",
+	"ContactName": "Sue Earle",
+	"Address": "579 Messenger Rd.",
 	"City": "Tremont",
 	"Province": "Nova Scotia",
 	"Postal Code": "b0p 1r0",
@@ -6045,8 +6032,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tony Overmars Farms Ltd.",
-	"Contact Name": "Paul Overmars, Andrea Overmars",
-	"Street Address": "RR # 3 St. Andrews",
+	"ContactName": "Paul Overmars, Andrea Overmars",
+	"Address": "RR # 3 St. Andrews",
 	"City": "St. Andrews",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0H 1X0",
@@ -6058,8 +6045,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tony's Meats",
-	"Contact Name": "Aaron Tingley, Dan MacGillivary",
-	"Street Address": "475 Landing Rd.",
+	"ContactName": "Aaron Tingley, Dan MacGillivary",
+	"Address": "475 Landing Rd.",
 	"City": "Antigonish",
 	"Province": "",
 	"Postal Code": "B2G 2L2",
@@ -6071,8 +6058,8 @@
 	"Brands": "Tony's Meats"
 }, {
 	"Producer": "Trider's Craft Beer",
-	"Contact Name": "contact@triderscraftbeer.com",
-	"Street Address": "46 Anson Avenue Unit 3",
+	"ContactName": "contact@triderscraftbeer.com",
+	"Address": "46 Anson Avenue Unit 3",
 	"City": "Amherst",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4H 4R2",
@@ -6084,8 +6071,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Trofel",
-	"Contact Name": "",
-	"Street Address": "15151 Cabot Trail",
+	"ContactName": "",
+	"Address": "15151 Cabot Trail",
 	"City": "Cheticamp",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0E 1H0",
@@ -6097,8 +6084,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Truro Farmers Market Cooperative",
-	"Contact Name": "Margaret Congdon, Manager",
-	"Street Address": "15 Young Street",
+	"ContactName": "Margaret Congdon, Manager",
+	"Address": "15 Young ",
 	"City": "Truro",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2N 3W3",
@@ -6110,8 +6097,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Tutti's    ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -6123,8 +6110,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Urban Sante ",
-	"Contact Name": "",
-	"Street Address": "942 Cole Harbour Rd",
+	"ContactName": "",
+	"Address": "942 Cole Harbour Rd",
 	"City": "Cole Harbour",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2V 1E6",
@@ -6136,8 +6123,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Vacheresse Meats",
-	"Contact Name": "Bobby and Jean Vacheresse",
-	"Street Address": "24 St Andrews Street",
+	"ContactName": "Bobby and Jean Vacheresse",
+	"Address": "24 St Andrews ",
 	"City": "Antigonish",
 	"Province": "Nova Scotia",
 	"Postal Code": "B2G 2H1",
@@ -6149,8 +6136,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Valley Flax Flour Ltd.",
-	"Contact Name": "Howard Selig",
-	"Street Address": "188 Marshall Street",
+	"ContactName": "Howard Selig",
+	"Address": "188 Marshall ",
 	"City": "Middleton",
 	"Province": "",
 	"Postal Code": "B0S 1P0",
@@ -6162,8 +6149,8 @@
 	"Brands": "Valley"
 }, {
 	"Producer": "Valley Flaxflour Ltd",
-	"Contact Name": "Howard Selig, General Manager / Owner",
-	"Street Address": "188 Marshall Street",
+	"ContactName": "Howard Selig, General Manager / Owner",
+	"Address": "188 Marshall ",
 	"City": "Middleton",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S1P0",
@@ -6175,8 +6162,8 @@
 	"Brands": "Valley Kitchen"
 }, {
 	"Producer": "Valley Mushroom Company Ltd.",
-	"Contact Name": "Leonard North",
-	"Street Address": "867 Randolph Road",
+	"ContactName": "Leonard North",
+	"Address": "867 Randolph Road",
 	"City": "Waterville",
 	"Province": "",
 	"Postal Code": "B0P 1V0",
@@ -6188,8 +6175,8 @@
 	"Brands": "Valley Mushrooms"
 }, {
 	"Producer": "Valley Natural Food (Greenwood) ",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -6201,8 +6188,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Van Dyk's Health Juice Products Ltd.",
-	"Contact Name": "Randy MacDonald",
-	"Street Address": "68 Devonshire Road",
+	"ContactName": "Randy MacDonald",
+	"Address": "68 Devonshire Road",
 	"City": "Caledonia",
 	"Province": "",
 	"Postal Code": "B0T 1B0",
@@ -6214,8 +6201,8 @@
 	"Brands": "Van Dyk's"
 }, {
 	"Producer": "Van Meekeren Farms Ltd",
-	"Contact Name": "Michael Van Meekeren",
-	"Street Address": "237 Thorpe Rd",
+	"ContactName": "Michael Van Meekeren",
+	"Address": "237 Thorpe Rd",
 	"City": "Lakeville, NS",
 	"Province": "",
 	"Postal Code": "B4N 3V7",
@@ -6227,8 +6214,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Venedam Berry Farm",
-	"Contact Name": "Calvin Venedam",
-	"Street Address": "601 Monks Head Road",
+	"ContactName": "Calvin Venedam",
+	"Address": "601 Monks Head Road",
 	"City": "Antigonish",
 	"Province": "",
 	"Postal Code": "B2G 2L4",
@@ -6240,8 +6227,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Vissers U-Pick",
-	"Contact Name": "",
-	"Street Address": "Highway 103",
+	"ContactName": "",
+	"Address": "Highway 103",
 	"City": "Newcombville",
 	"Province": "",
 	"Postal Code": "B4V 2W4",
@@ -6253,8 +6240,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Vista Bella Farm",
-	"Contact Name": "Brenna and Sebastian Margarit",
-	"Street Address": "2859 Malagash Rd",
+	"ContactName": "Brenna and Sebastian Margarit",
+	"Address": "2859 Malagash Rd",
 	"City": "Malagash",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1E0",
@@ -6266,8 +6253,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Vital Berry Farm",
-	"Contact Name": "Margie Brown",
-	"Street Address": "366 Gibson Woods Road",
+	"ContactName": "Margie Brown",
+	"Address": "366 Gibson Woods Road",
 	"City": "Centreville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1J0",
@@ -6279,8 +6266,8 @@
 	"Brands": ""
 }, {
 	"Producer": "W.G. Oulton & Sons Ltd.",
-	"Contact Name": "Mike Oulton, Wayne Oulton",
-	"Street Address": "5246 Hwy 14, RR # 1",
+	"ContactName": "Mike Oulton, Wayne Oulton",
+	"Address": "5246 Hwy 14, RR # 1",
 	"City": "Windsor",
 	"Province": "",
 	"Postal Code": "B0N 2T0",
@@ -6292,8 +6279,8 @@
 	"Brands": "Martock Glen Farms (all government inspected)"
 }, {
 	"Producer": "Waldegrave Farm",
-	"Contact Name": "Cammie Harbottle",
-	"Street Address": "11 Alex Cox Rd.",
+	"ContactName": "Cammie Harbottle",
+	"Address": "11 Alex Cox Rd.",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",
@@ -6305,8 +6292,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wandering Shepherd Cheese",
-	"Contact Name": "",
-	"Street Address": "907 Intervale Road",
+	"ContactName": "",
+	"Address": "907 Intervale Road",
 	"City": "Huntington",
 	"Province": "",
 	"Postal Code": "B1K 1S8",
@@ -6318,8 +6305,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Watershed Farm",
-	"Contact Name": "Camelia Frieberg",
-	"Street Address": "768 Allen Frausel Road",
+	"ContactName": "Camelia Frieberg",
+	"Address": "768 Allen Frausel Road",
 	"City": "Baker Settlement",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4V 7H8",
@@ -6331,8 +6318,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Webster Farms Ltd",
-	"Contact Name": "",
-	"Street Address": "5859 Hwy 1",
+	"ContactName": "",
+	"Address": "5859 Hwy 1",
 	"City": "Cambridge Station",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0P 1G0",
@@ -6344,8 +6331,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wendell Smith",
-	"Contact Name": "Wendell Smith",
-	"Street Address": "RR #3",
+	"ContactName": "Wendell Smith",
+	"Address": "RR #3",
 	"City": "Amherst",
 	"Province": "",
 	"Postal Code": "B4H 3Y1",
@@ -6357,8 +6344,8 @@
 	"Brands": "Maple Gold"
 }, {
 	"Producer": "Whippletree Farm & Forest",
-	"Contact Name": "",
-	"Street Address": "1515 Highway 201",
+	"ContactName": "",
+	"Address": "1515 Highway 201",
 	"City": "Round Hill",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -6370,8 +6357,8 @@
 	"Brands": ""
 }, {
 	"Producer": "White Crow Cattle Company",
-	"Contact Name": "Robert Crow",
-	"Street Address": "",
+	"ContactName": "Robert Crow",
+	"Address": "",
 	"City": "Brooklyn",
 	"Province": "Nova Scotia",
 	"Postal Code": "b0n2a0",
@@ -6383,8 +6370,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wild Mountain Farm",
-	"Contact Name": "Lance Bishop",
-	"Street Address": "8 Old Baxter's Mill Road",
+	"ContactName": "Lance Bishop",
+	"Address": "8 Old Baxter's Mill Road",
 	"City": "Canning",
 	"Province": "",
 	"Postal Code": "B0P 1H0",
@@ -6396,8 +6383,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wild Rose Farm",
-	"Contact Name": "Gilberte & Siegmar Doelle",
-	"Street Address": "6804 Gilberts Cove RR 1",
+	"ContactName": "Gilberte & Siegmar Doelle",
+	"Address": "6804 Gilberts Cove RR 1",
 	"City": "Plympton",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0W 2R0",
@@ -6409,8 +6396,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wile's Lake Farm Market & Bakery",
-	"Contact Name": "Elspeth McLean-Wile",
-	"Street Address": "3254 HIGHWAY #325",
+	"ContactName": "Elspeth McLean-Wile",
+	"Address": "3254 HIGHWAY #325",
 	"City": "Wileville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4V 5G8",
@@ -6422,8 +6409,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Willow Pond Farm",
-	"Contact Name": "Larry & Pat Ward",
-	"Street Address": "9276 Moose River Road",
+	"ContactName": "Larry & Pat Ward",
+	"Address": "9276 Moose River Road",
 	"City": "Middle Musquodoboit",
 	"Province": "",
 	"Postal Code": "B0N 1X0",
@@ -6435,8 +6422,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Willowbank U-Pick Farm & Equestrian Stable",
-	"Contact Name": "Jay Johnson",
-	"Street Address": "110 Starr's Point Road",
+	"ContactName": "Jay Johnson",
+	"Address": "110 Starr's Point Road",
 	"City": "Port Williams",
 	"Province": "",
 	"Postal Code": "B0P 1T0",
@@ -6448,8 +6435,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Windsor Farmers Market",
-	"Contact Name": "",
-	"Street Address": "Waterside Coach House, 6 King Rd Extension",
+	"ContactName": "",
+	"Address": "Waterside Coach House, 6 King Rd Extension",
 	"City": "Windsor",
 	"Province": "",
 	"Postal Code": "",
@@ -6461,8 +6448,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Windy Mountain Road Farm",
-	"Contact Name": "Wilma",
-	"Street Address": "530 Mountain Road",
+	"ContactName": "Wilma",
+	"Address": "530 Mountain Road",
 	"City": "River John",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K1N0",
@@ -6474,8 +6461,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Windy View Farm",
-	"Contact Name": "",
-	"Street Address": "229 Harmony Rd.",
+	"ContactName": "",
+	"Address": "229 Harmony Rd.",
 	"City": "Kingston",
 	"Province": "",
 	"Postal Code": "B0S 1A0",
@@ -6487,8 +6474,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wings of Dawn Organic Farm",
-	"Contact Name": "",
-	"Street Address": "10995 Highway 2",
+	"ContactName": "",
+	"Address": "10995 Highway 2",
 	"City": "Masstown",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0M 1G0",
@@ -6500,8 +6487,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Withrow's Farm Market (Elmsdale)",
-	"Contact Name": "Sarah Withrow",
-	"Street Address": "1040 Hwy 214",
+	"ContactName": "Sarah Withrow",
+	"Address": "1040 Hwy 214",
 	"City": "Elmsdale",
 	"Province": "Nova Scotia",
 	"Postal Code": "",
@@ -6513,8 +6500,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Withrow's Farm Market (Mount Uniacke)",
-	"Contact Name": "Sarah Withrow",
-	"Street Address": "206 Hwy 1",
+	"ContactName": "Sarah Withrow",
+	"Address": "206 Hwy 1",
 	"City": "Mount Uniacke",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 1Z0",
@@ -6526,8 +6513,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wolfville Farmers Market",
-	"Contact Name": "",
-	"Street Address": "",
+	"ContactName": "",
+	"Address": "",
 	"City": "",
 	"Province": "",
 	"Postal Code": "",
@@ -6539,8 +6526,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wolfville Farmers' Market",
-	"Contact Name": "Kelly Marie Redcliffe",
-	"Street Address": "24 Elm Avenue",
+	"ContactName": "Kelly Marie Redcliffe",
+	"Address": "24 Elm Avenue",
 	"City": "Wolfville",
 	"Province": "Nova Scotia",
 	"Postal Code": "B4P 1Z9",
@@ -6552,8 +6539,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wood 'N Hart Farm",
-	"Contact Name": "Bill Wood",
-	"Street Address": "6220 Truro Rd, RR #4",
+	"ContactName": "Bill Wood",
+	"Address": "6220 Truro Rd, RR #4",
 	"City": "Tatamagouche",
 	"Province": "",
 	"Postal Code": "B0K 1V0",
@@ -6565,8 +6552,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Woolies of Upperbrook Farm",
-	"Contact Name": "Ruth or Greta Mathewson",
-	"Street Address": "989 Upper Brookside Road",
+	"ContactName": "Ruth or Greta Mathewson",
+	"Address": "989 Upper Brookside Road",
 	"City": "Central North River",
 	"Province": "Nova Scotia",
 	"Postal Code": "B6L 6W6",
@@ -6578,8 +6565,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Wysmykal Farm",
-	"Contact Name": "Charles Ryan and Jess Wysmyk",
-	"Street Address": "1121 Chapman Settlement Rd",
+	"ContactName": "Charles Ryan and Jess Wysmyk",
+	"Address": "1121 Chapman Settlement Rd",
 	"City": "Northport",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0L 1E0",
@@ -6591,8 +6578,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Yarmouth Farmers' Community Market",
-	"Contact Name": "Natalie Smith",
-	"Street Address": "15 Hawthorne St, Lower Level",
+	"ContactName": "Natalie Smith",
+	"Address": "15 Hawthorne St, Lower Level",
 	"City": "Yarmouth",
 	"Province": "",
 	"Postal Code": "B5A 4K5",
@@ -6604,8 +6591,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Ye Olde Towne Pub",
-	"Contact Name": "",
-	"Street Address": "9 Church St",
+	"ContactName": "",
+	"Address": "9 Church St",
 	"City": "Annapolis Royal",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0S 1A0",
@@ -6617,8 +6604,8 @@
 	"Brands": ""
 }, {
 	"Producer": "Yum Foods Limited",
-	"Contact Name": "David Browning",
-	"Street Address": "94 Cedar Street",
+	"ContactName": "David Browning",
+	"Address": "94 Cedar Street",
 	"City": "Windsor",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0N 2T0",

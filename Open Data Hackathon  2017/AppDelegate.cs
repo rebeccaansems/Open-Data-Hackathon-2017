@@ -14,8 +14,7 @@ namespace Open_Data_Hackathon__2017
     [Register("AppDelegate")]
     public class AppDelegate : UIApplicationDelegate
     {
-
-        public static SQLiteConnection db;
+        public static List<Store> allStores;
 
         public override UIWindow Window
         {
@@ -25,31 +24,14 @@ namespace Open_Data_Hackathon__2017
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-            //create database
-            string dbName = "db.sqlite";
-            string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.Personal); // Documents folder
-            string libraryPath = Path.Combine(documentsPath, "..", "Library"); // Library folder
-            var dbPath = Path.Combine(libraryPath, dbName);
-            db = new SQLiteConnection(dbPath);
-            db.CreateTable<Store>();
-
-            //read data from text file
-            //string path = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-            //string filename = Path.Combine(path, "SelectNSData.txt");
             string allStoreData;
             using (var streamReader = new StreamReader("SelectNSData.txt"))
             {
                 allStoreData = streamReader.ReadToEnd();
-                System.Diagnostics.Debug.WriteLine(allStoreData);
             }
 
             //format data
-            List<Store> allStores = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Store>>(allStoreData);
-
-            for(int i=0; i< allStores.Count; i++)
-            {
-                db.Insert(allStores[i]);
-            }
+            allStores = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Store>>(allStoreData);
 
             return true;
         }

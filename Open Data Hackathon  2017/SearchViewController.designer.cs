@@ -20,6 +20,10 @@ namespace Open_Data_Hackathon__2017
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton b_SearchCurrentLocation { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         Open_Data_Hackathon__2017.MapViews m_SearchMap { get; set; }
 
         [Outlet]
@@ -43,6 +47,11 @@ namespace Open_Data_Hackathon__2017
             if (b_SearchButton != null) {
                 b_SearchButton.Dispose ();
                 b_SearchButton = null;
+            }
+
+            if (b_SearchCurrentLocation != null) {
+                b_SearchCurrentLocation.Dispose ();
+                b_SearchCurrentLocation = null;
             }
 
             if (m_SearchMap != null) {
