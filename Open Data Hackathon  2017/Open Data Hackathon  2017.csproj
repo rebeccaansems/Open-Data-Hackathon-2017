@@ -109,6 +109,7 @@
     <Compile Include="SQLite.cs" />
     <Compile Include="SQLiteAsync.cs" />
     <Compile Include="Store.cs" />
+    <Compile Include="TableSource.cs" />
     <Compile Include="UINavBar.cs" />
     <Compile Include="UINavBar.designer.cs">
       <DependentUpon>UINavBar.cs</DependentUpon>
@@ -116,6 +117,18 @@
     <Compile Include="UINavigationItems.cs" />
     <Compile Include="UINavigationItems.designer.cs">
       <DependentUpon>UINavigationItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIScrollViews.cs" />
+    <Compile Include="UIScrollViews.designer.cs">
+      <DependentUpon>UIScrollViews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UITableViewCells.cs" />
+    <Compile Include="UITableViewCells.designer.cs">
+      <DependentUpon>UITableViewCells.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UITableViews.cs" />
+    <Compile Include="UITableViews.designer.cs">
+      <DependentUpon>UITableViews.cs</DependentUpon>
     </Compile>
     <Compile Include="UITextFields.cs" />
     <Compile Include="UITextFields.designer.cs">

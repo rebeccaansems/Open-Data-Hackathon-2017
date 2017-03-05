@@ -636,10 +636,10 @@
 	"Hours": "U-Pick apples and pears usually opening Labour Day weekend.   For all U-picks please call ahead for hours, season of operation and availability.",
 	"Brands": "Boates"
 }, {
-	"Producer": "Bob Ansem's U-Pick",
+	"Producer": "Bob Ansems's U-Pick",
 	"ContactName": "",
 	"Address": "1949 Lakewood Road",
-	"City": "Centreville",
+	"City": "Centerville",
 	"Province": "",
 	"Postal Code": "B0P 1J0",
 	"Phone": "(902) 679-0757",
@@ -651,7 +651,7 @@
 }, {
 	"Producer": "Bonny Lea Farm/Herb Garden",
 	"ContactName": "",
-	"Address": "5 Collicutt Rd. Hwy 14",
+	"Address": "5 Collicutt Rd.",
 	"City": "Chester",
 	"Province": "",
 	"Postal Code": "B0J 1J0",
@@ -664,7 +664,7 @@
 }, {
 	"Producer": "Bonnymans' Wild Blueberries",
 	"ContactName": "Angus Bonnyman",
-	"Address": "19 Pine ",
+	"Address": "19 Pine Street",
 	"City": "Tatamagouche",
 	"Province": "Nova Scotia",
 	"Postal Code": "B0K 1V0",

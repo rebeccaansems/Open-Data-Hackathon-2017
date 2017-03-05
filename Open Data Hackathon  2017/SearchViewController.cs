@@ -17,6 +17,7 @@ namespace Open_Data_Hackathon__2017
     {
         CLLocationManager locationManager = new CLLocationManager();
         CLGeocoder geoCoder = new CLGeocoder();
+        UITableView table;
 
         public SearchViewController(IntPtr handle) : base(handle)
         {
@@ -25,9 +26,9 @@ namespace Open_Data_Hackathon__2017
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
+            table = v_SearchTableView;
 
             b_SearchButton.TouchUpInside += SearchButtonPressed;
-            b_SearchCurrentLocation.TouchUpInside += SearchCurrentLocationButtonPressed;
 
             locationManager.RequestWhenInUseAuthorization();
 
@@ -39,12 +40,28 @@ namespace Open_Data_Hackathon__2017
 
         void SearchButtonPressed(object sender, EventArgs e)
         {
-            GeocodeToUpdateMap(t_SearchCity.Text);
+            FindNearestStores(m_SearchMap.UserLocation.Coordinate.Longitude, m_SearchMap.UserLocation.Coordinate.Latitude);
+
+            List<string> tableList = new List<string>();
+            for (int i = 0; i < AppDelegate.nearestStores.Count; i++)
+            {
+                tableList.Add(AppDelegate.nearestStores[i].Producer);
+            }
+            string[] tableItems = tableList.ToArray();
+            table.Source = new TableSource(tableItems, AppDelegate.nearestStores.ToArray(), this);
+            Add(table);
         }
 
-        void SearchCurrentLocationButtonPressed(object sender, EventArgs e)
+        void FindNearestStores(double lon, double lat)
         {
-            t_SearchNavBarText.Title = m_SearchMap.UserLocation.Coordinate.ToString();
+            AppDelegate.nearestStores.Clear();
+            for(int i=0; i< AppDelegate.allStores.Count; i++)
+            {
+                if (TestRange(AppDelegate.allStores[i].Lon, lon - 0.25, lon + 0.25) && TestRange(AppDelegate.allStores[i].Lat, lat - 0.25, lat + 0.25))
+                {
+                    AppDelegate.nearestStores.Add(AppDelegate.allStores[i]);
+                }
+            }
         }
 
         void UpdateMap(object sender, EventArgs e)
@@ -59,27 +76,19 @@ namespace Open_Data_Hackathon__2017
                 coords = m_SearchMap.UserLocation.Coordinate;
             }
 
-            MKCoordinateSpan span = new MKCoordinateSpan(KilometresToLatitudeDegrees(10000), KilometresToLongitudeDegrees(10000, coords.Latitude));
+            MKCoordinateSpan span = new MKCoordinateSpan(KilometresToLatitudeDegrees(10), KilometresToLongitudeDegrees(10, coords.Latitude));
             m_SearchMap.Region = new MKCoordinateRegion(coords, span);
         }
 
         void UpdateMap(CLLocationCoordinate2D coords)
         {
-            MKCoordinateSpan span = new MKCoordinateSpan(KilometresToLatitudeDegrees(10000), KilometresToLongitudeDegrees(10000, coords.Latitude));
+            MKCoordinateSpan span = new MKCoordinateSpan(KilometresToLatitudeDegrees(10), KilometresToLongitudeDegrees(10, coords.Latitude));
             m_SearchMap.Region = new MKCoordinateRegion(coords, span);
         }
 
-        async void GeocodeToUpdateMap(string address)
-        {
-            var geoCoder = new CLGeocoder();
-            CLPlacemark[] placemarks = await geoCoder.GeocodeAddressAsync(address);
-            UpdateMap(placemarks[0].Location.Coordinate);
-        }
-
-        int counter = 0;
         async void AddPins()
         {
-
+            b_SearchButton.Enabled = false;
             for (int i = 0; i < AppDelegate.allStores.Count; i++)
             {
                 Store store = AppDelegate.allStores[i];
@@ -87,19 +96,28 @@ namespace Open_Data_Hackathon__2017
                 {
                     CLPlacemark[] placemarks = await geoCoder.GeocodeAddressAsync(store.Address + " " + store.City);
                     t_SearchNavBarText.Title = store.Producer;
+
+                    store.Lon = placemarks[0].Location.Coordinate.Longitude;
+                    store.Lat = placemarks[0].Location.Coordinate.Latitude;
+
                     m_SearchMap.AddAnnotations(new MKPointAnnotation()
                     {
                         Title = store.Producer,
                         Coordinate = new CLLocationCoordinate2D(placemarks[0].Location.Coordinate.Latitude, placemarks[0].Location.Coordinate.Longitude)
                     });
-                    counter++;
                 }
                 catch
                 {
 
                 }
             }
+            b_SearchButton.Enabled = true;
         }
+
+
+
+
+
 
 
 
@@ -121,5 +139,11 @@ namespace Open_Data_Hackathon__2017
             double radiusAtLatitude = earthRadius * Math.Cos(atLatitude * degreesToRadians);
             return (kms / radiusAtLatitude) * radiansToDegrees;
         }
+
+        bool TestRange(double numberToCheck, double bottom, double top)
+        {
+            return (numberToCheck >= bottom && numberToCheck <= top);
+        }
+
     }
 }

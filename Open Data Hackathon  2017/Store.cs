@@ -34,6 +34,9 @@ namespace Open_Data_Hackathon__2017
 
         public string Brands { get; set; }
 
+        public double Lat { get; set; }
+        public double Lon { get; set; }
+
         public override string ToString()
         {
             return string.Format("{0}, {1}, {2}, {3}", City, Address, Producer, ContactName);

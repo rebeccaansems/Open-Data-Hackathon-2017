@@ -42,6 +42,10 @@ namespace Open_Data_Hackathon__2017
         [GeneratedCode ("iOS Designer", "1.0")]
         Open_Data_Hackathon__2017.UIViews v_SearchScreen { get; set; }
 
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        Open_Data_Hackathon__2017.UITableViews v_SearchTableView { get; set; }
+
         void ReleaseDesignerOutlets ()
         {
             if (b_SearchButton != null) {
@@ -77,6 +81,11 @@ namespace Open_Data_Hackathon__2017
             if (v_SearchScreen != null) {
                 v_SearchScreen.Dispose ();
                 v_SearchScreen = null;
+            }
+
+            if (v_SearchTableView != null) {
+                v_SearchTableView.Dispose ();
+                v_SearchTableView = null;
             }
         }
     }

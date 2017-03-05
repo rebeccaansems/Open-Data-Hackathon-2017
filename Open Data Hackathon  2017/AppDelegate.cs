@@ -15,6 +15,7 @@ namespace Open_Data_Hackathon__2017
     public class AppDelegate : UIApplicationDelegate
     {
         public static List<Store> allStores;
+        public static List<Store> nearestStores;
 
         public override UIWindow Window
         {
@@ -24,6 +25,7 @@ namespace Open_Data_Hackathon__2017
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
+            nearestStores = new List<Store>();
             string allStoreData;
             using (var streamReader = new StreamReader("SelectNSData.txt"))
             {
